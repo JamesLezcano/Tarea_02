@@ -6,16 +6,22 @@
 
 class EmpleadoAsalariado : public Empleado {
     
+    
     double sueldoBruto;
     double sueldoNeto;
     double impuestos;
-    
     protected:
-    virtual std::ostream& serializar(std::ostream& out) const;
+        
+        virtual std::ostream& serializar(std::ostream& out) const;
 
     public:
-    EmpleadoAsalariado(std::string, std::string, int, double);
-
+        EmpleadoAsalariado(std::string, std::string, int, double);
+        std::string getNombre();
+        std::string getCorreo();
+        int getTipoEmpleado();
+        double getSueldoBruto();
+        double getSueldoNeto();
+        double getImpuestos();
 };
 
 #endif

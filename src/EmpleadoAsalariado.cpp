@@ -1,6 +1,7 @@
 #include "EmpleadoAsalariado.h"
 #include<iostream>
 using namespace std;
+
 EmpleadoAsalariado::EmpleadoAsalariado(std::string nombreCompleto, std::string correo, int tipoEmpleado,double sueldoBruto)
 {
     this->nombreCompleto = nombreCompleto;
@@ -9,16 +10,39 @@ EmpleadoAsalariado::EmpleadoAsalariado(std::string nombreCompleto, std::string c
     this->sueldoBruto=sueldoBruto;
     this->impuestos = sueldoBruto*0.07;
     this->sueldoNeto = sueldoBruto - impuestos;
-    
+}
+
+string EmpleadoAsalariado::getNombre(){
+    return nombreCompleto;
+}
+
+string EmpleadoAsalariado::getCorreo(){
+    return correo;
+}
+
+int EmpleadoAsalariado::getTipoEmpleado(){
+    return tipoEmpleado;
+}
+
+double EmpleadoAsalariado::getSueldoBruto(){
+    return sueldoBruto;
+}
+
+double EmpleadoAsalariado::getSueldoNeto(){
+    return sueldoNeto;
+}
+
+double EmpleadoAsalariado::getImpuestos(){
+    return impuestos;
 }
 
 std::ostream& EmpleadoAsalariado::serializar(std::ostream& o) const {
-
-    o << this->nombreCompleto << ", ";
-    o << this->correo << ", ";
-    o << this->tipoEmpleado<<", ";
-    o << this->sueldoBruto<<", ";
-    o << this->sueldoNeto<<", ",
-    o << this->impuestos;
+    o << nombreCompleto << ", ";
+    o << correo << ", ";
+    o << tipoEmpleado<<", ";
+    o << sueldoBruto<<", ";
+    o << sueldoNeto<<", ";
+    o << impuestos;
     return o;
 }
+ 

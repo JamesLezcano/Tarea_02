@@ -23,11 +23,10 @@ ArbolPlanilla::~ArbolPlanilla() {
 
 }
 
-
 void ArbolPlanilla::AgregarNodo(int id_Empleado, Empleado *datos_Empleado, int id_Supervisor)
 {
     Nodo *nodo = new Nodo(id_Empleado, datos_Empleado, id_Supervisor);
-
+   
     // Si idPadre = 0, es el nodo raíz
     if (id_Supervisor == 0)
     {
@@ -46,9 +45,9 @@ void ArbolPlanilla::AgregarNodo(int id_Empleado, Empleado *datos_Empleado, int i
 
 std::ostream& operator << (std::ostream &o, const ArbolPlanilla &arbol)
 {
+
     Nodo* raiz = arbol.raiz;
     o << *(raiz);
-
     return o;
 }
 
@@ -58,7 +57,6 @@ std::istream& operator >> (std::istream &i, ArbolPlanilla &arbol){
     {
         std::cerr << "Error leyendo archivo Nomina.txt" << endl;
     }
-
     string linea2 {""};//liena de la nomina
     int idEmpleadoN;//id de nomina
     double salarioBruto=0;
@@ -73,39 +71,40 @@ std::istream& operator >> (std::istream &i, ArbolPlanilla &arbol){
     string nombreCompleto{""};//une el nombre completo
     string correo{""};
     int tipo{0};
-    int idSupervisor {0};
+    int idSupervisor {0};    
     
     while (getline(i, linea)) {
-
         idEmpleado = 0;
         nombre = "";
         apellido="";
-        nombreCompleto="",
+        nombreCompleto="";
         correo="";
         tipo=0;
         idSupervisor = 0;
 
         istringstream stream(linea); 
+        
         stream >> idEmpleado;
         stream >> nombre;
         stream >>apellido;
         stream>>correo;
         stream>>tipo;
         stream>> idSupervisor;
-        
         nombreCompleto = nombre +" "+ apellido;
+        
         if(getline(ifs2,linea2)){
             istringstream stream2(linea2); 
             stream2>> idEmpleadoN >> salarioBruto;
             Empleado *EmpleadoNuevo = new EmpleadoAsalariado{nombreCompleto,correo,tipo,salarioBruto};
             
-            cout<<*EmpleadoNuevo<<endl;
-           
+            //sueldoNetoTotal=EmpleadoNuevo->getSueldoNeto();
+            //impuestosTotales=EmpleadoNuevo->getImpuestos();
             arbol.AgregarNodo(idEmpleado, EmpleadoNuevo, idSupervisor);
         }
-        ///////////////////////////////////Imprimir el arbol//////////////////////
-       
+        
+
     }
+    
 
     return i;
 

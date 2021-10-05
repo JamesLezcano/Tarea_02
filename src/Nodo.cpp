@@ -23,23 +23,31 @@ Nodo::~Nodo()
 
 void Nodo::AgregarHijo(Nodo *hijo) {
     this->hijos.push_back(hijo);
+    
 }
 
 std::ostream& operator << (std::ostream &o, const Nodo &nodo)
 {
+    
     // Imprimir información del nodo
-    o << "Id empleado: ";
+    o << "   Id empleado: ";
     o << nodo.id_Empleado;
-    o << ", Datos: ";
-    o << *(nodo.datos_Empleado);
-    o << ", Padre: ";
+    o << ",     Datos: ";
+    o << nodo.datos_Empleado->getNombre();
+    o <<"     ";
+    o << nodo.datos_Empleado->getSueldoNeto();
+    o << ",     Padre: ";
     o << nodo.id_Supervisor;
     o << std::endl;
+    
+    
 
     // Imprimir información de cada hijo
     for (Nodo *nodoHijo : nodo.hijos)
     {
-        o << *nodoHijo;
+        o << nodo.datos_Empleado->getNombre();
+        o << *nodoHijo ;
+       
     }
 
     return o;

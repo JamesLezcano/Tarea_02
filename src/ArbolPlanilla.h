@@ -11,6 +11,10 @@ class ArbolPlanilla {
     Nodo *raiz;
     std::map<int, Nodo *> elementos;
 
+    double sueldoBrutoTotal=0;
+    double sueldoNetoTotal=0;
+    double impuestosTotales=0;
+
     public:
     ArbolPlanilla();
     ~ArbolPlanilla();

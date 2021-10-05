@@ -19,14 +19,15 @@ int main() {
     ifs >> *arbol;
 
 
-    std::ofstream file("Planilla.txt", std::ofstream::out);
+    std::ofstream file("Planilla.csv", std::ofstream::out);
+    //file<<"  SUPERVISOR                  ID_EMPLEADO       NOMBRE_EMPLEADO        SUELDO_NETO   "<<std::endl<<"            ";
     file<<*arbol;
+    
     file.close();
+    
 
-    //std::cout << *arbol;
 
     delete arbol;
-
     return 0;
 }
 

@@ -20,7 +20,12 @@ class Empleado {
     public:
     Empleado(){};
     ~Empleado(){};
-
+    virtual std::string getNombre()=0;
+    virtual std::string getCorreo()=0;
+    virtual int getTipoEmpleado()=0;
+    virtual double getSueldoBruto()=0;
+    virtual double getSueldoNeto()=0;
+    virtual double getImpuestos()=0;
     friend std::ostream& operator << (std::ostream &o, const Empleado &empleado);
 };
 

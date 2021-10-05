@@ -5,6 +5,7 @@
 #include "ArbolPlanilla.h"
 #include <fstream>
 #include <string>
+#include "Nodo.h"
 
 int main() {
 
@@ -20,8 +21,9 @@ int main() {
 
 
     std::ofstream file("Planilla.csv", std::ofstream::out);
-    //file<<"  SUPERVISOR                  ID_EMPLEADO       NOMBRE_EMPLEADO        SUELDO_NETO   "<<std::endl<<"            ";
+    file<<"Supervisor, Id_Empleado, Nombre_Empleado, Sueldo_Neto   "<<std::endl<<"                     ";
     file<<*arbol;
+
     
     file.close();
     

@@ -6,20 +6,19 @@
 #include <iostream>
 #include <fstream>
 #include "EmpleadoAsalariado.h"
+#include "EmpleadoHoras.h"
 #include "DatosEmpleado.h"
 using namespace std;
 
 ArbolPlanilla::ArbolPlanilla() {
     this->raiz = nullptr;
 }
-
 ArbolPlanilla::~ArbolPlanilla() {
 
     // Este destructor arranca el proceso de destrucción de los nodos;
     if (this->raiz != nullptr)
     {
-        delete this->raiz;
-    }
+        delete this->raiz;    }
 
 }
 
@@ -58,10 +57,18 @@ std::istream& operator >> (std::istream &i, ArbolPlanilla &arbol){
         std::cerr << "Error leyendo archivo Nomina.txt" << endl;
     }
     string linea2 {""};//liena de la nomina
-    int idEmpleadoN;//id de nomina
+    int idEmpleadoNomina;//id de nomina
     double salarioBruto=0;
-    double salarioNeto=0;
-    double impuestos=0;
+///////////////////////////////lee txt horas trabajadas ////////////////////////////
+ ifstream ifs3("HorasTrabajadas.txt", ifstream::in);//////////----------->>>>>Recordar poner error
+    if (!ifs3.is_open())
+    {
+        std::cerr << "Error leyendo archivo Nomina.txt" << endl;
+    }
+    string linea3 {""};//liena de la nomina
+    int idEmpleadoHorasTrabajadas;//id de nomina
+    double salarioHora=0;
+    double horasTrabajadas=0;
 
 ////////////////////////////////////Datos de Personas.txt ////////////////////////////
     string linea {""};//linea de las personas
@@ -94,17 +101,20 @@ std::istream& operator >> (std::istream &i, ArbolPlanilla &arbol){
         
         if(getline(ifs2,linea2)){
             istringstream stream2(linea2); 
-            stream2>> idEmpleadoN >> salarioBruto;
-            Empleado *EmpleadoNuevo = new EmpleadoAsalariado{nombreCompleto,correo,tipo,salarioBruto};
-            
-            //sueldoNetoTotal=EmpleadoNuevo->getSueldoNeto();
-            //impuestosTotales=EmpleadoNuevo->getImpuestos();
-            arbol.AgregarNodo(idEmpleado, EmpleadoNuevo, idSupervisor);
+            stream2>> idEmpleadoNomina >> salarioBruto;
+            Empleado *EmpleadoAsalariadoNuevo = new EmpleadoAsalariado{nombreCompleto,correo,tipo,salarioBruto};
+            arbol.AgregarNodo(idEmpleado, EmpleadoAsalariadoNuevo, idSupervisor);
+        }
+        else if(getline(ifs3,linea3)){
+            istringstream stream3(linea3); 
+            stream3>> idEmpleadoHorasTrabajadas>> horasTrabajadas>>salarioHora;
+            Empleado *EmpleadoHorasNuevo = new EmpleadoHoras{nombreCompleto,correo,tipo,horasTrabajadas,salarioHora};
+            arbol.AgregarNodo(idEmpleado, EmpleadoHorasNuevo, idSupervisor);
         }
         
-
     }
     
+
 
     return i;
 

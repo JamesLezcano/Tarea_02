@@ -9,6 +9,7 @@ Nodo::Nodo(int id_Empleado, Empleado *datos_Empleado,int id_Supervisor)
     this->id_Supervisor = id_Supervisor;
 }
 
+
 Nodo::~Nodo()
 {
     std::clog << "Borrando nodo " << this->id_Empleado << std::endl;
@@ -21,6 +22,8 @@ Nodo::~Nodo()
     std::clog << "Termina de borrar nodo " << this->id_Empleado<< std::endl;
 }
 
+
+
 void Nodo::AgregarHijo(Nodo *hijo) {
     this->hijos.push_back(hijo);
     
@@ -30,13 +33,13 @@ std::ostream& operator << (std::ostream &o, const Nodo &nodo)
 {
     
     // Imprimir información del nodo
-    o << "   Id empleado: ";
+    o << ", ";
     o << nodo.id_Empleado;
-    o << ",     Datos: ";
+    o << ", ";
     o << nodo.datos_Empleado->getNombre();
-    o <<"     ";
+    o <<", ";
     o << nodo.datos_Empleado->getSueldoNeto();
-    o << ",     Padre: ";
+    o << ", ";
     o << nodo.id_Supervisor;
     o << std::endl;
     

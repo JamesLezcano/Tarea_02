@@ -12,7 +12,6 @@ EmpleadoHoras::EmpleadoHoras(std::string nombreCompleto, std::string correo, int
     this->sueldoNeto = sueldoBruto - impuestos;
 }
 
-
 string EmpleadoHoras::getNombre(){
     return nombreCompleto;
 }

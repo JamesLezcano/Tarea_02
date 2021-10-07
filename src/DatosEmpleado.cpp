@@ -1,7 +1,6 @@
 #include "DatosEmpleado.h"
 #include <iostream>
 
-
 std::ostream& Empleado::serializar(std::ostream& out) const { 
     return out;
 }

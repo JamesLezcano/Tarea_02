@@ -24,10 +24,7 @@ int main() {
     file<<"Supervisor, Id_Empleado, Nombre_Empleado, Sueldo_Neto   "<<std::endl<<"                     ";
     file<<*arbol;
 
-    
     file.close();
-    
-
 
     delete arbol;
     return 0;

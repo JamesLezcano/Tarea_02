@@ -13,38 +13,29 @@ using namespace std;
 ArbolPlanilla::ArbolPlanilla() {
     this->raiz = nullptr;
 }
-ArbolPlanilla::~ArbolPlanilla() {
 
-    // Este destructor arranca el proceso de destrucción de los nodos;
-    if (this->raiz != nullptr)
-    {
-        delete this->raiz;    }
-
+ArbolPlanilla::~ArbolPlanilla() {// Este destructor arranca el proceso de destrucción de los nodos;
+    if (this->raiz != nullptr){ 
+        delete this->raiz;   
+    }
 }
 
-void ArbolPlanilla::AgregarNodo(int id_Empleado, Empleado *datos_Empleado, int id_Supervisor)
-{
+
+void ArbolPlanilla::AgregarNodo(int id_Empleado, Empleado *datos_Empleado, int id_Supervisor){
+    double a= datos_Empleado->getImpuestos();///////////////////////////////////////////////////////----------------------->>>>>>>>>>>>>>>>>>>>>>
     Nodo *nodo = new Nodo(id_Empleado, datos_Empleado, id_Supervisor);
-   
-    // Si idPadre = 0, es el nodo raíz
-    if (id_Supervisor == 0)
-    {
+    if (id_Supervisor == 0){// Si idPadre = 0, es el nodo raíz
         this->raiz = nodo;   
-    }
-    else
-    {
-        // Buscar ese nodo padre
+    }else{   // Buscar ese nodo padre
         Nodo *nodoPadre = this->elementos.at(id_Supervisor);
         nodoPadre->AgregarHijo(nodo);        
     }
-
-    // Agregar nodo al índice
-    this->elementos.insert(std::pair<int,Nodo *>(id_Empleado, nodo));
+    this->elementos.insert(std::pair<int,Nodo *>(id_Empleado, nodo));// Agregar nodo al índice
 }
 
-std::ostream& operator << (std::ostream &o, const ArbolPlanilla &arbol)
-{
 
+
+std::ostream& operator << (std::ostream &o, const ArbolPlanilla &arbol){
     Nodo* raiz = arbol.raiz;
     o << *(raiz);
     return o;
@@ -52,17 +43,16 @@ std::ostream& operator << (std::ostream &o, const ArbolPlanilla &arbol)
 
 std::istream& operator >> (std::istream &i, ArbolPlanilla &arbol){
     ifstream ifs2("Nomina.txt", ifstream::in);//////////----------->>>>>Recordar poner error
-    if (!ifs2.is_open())
-    {
+    if (!ifs2.is_open()){
         std::cerr << "Error leyendo archivo Nomina.txt" << endl;
     }
     string linea2 {""};//liena de la nomina
     int idEmpleadoNomina;//id de nomina
     double salarioBruto=0;
 ///////////////////////////////lee txt horas trabajadas ////////////////////////////
+
  ifstream ifs3("HorasTrabajadas.txt", ifstream::in);//////////----------->>>>>Recordar poner error
-    if (!ifs3.is_open())
-    {
+    if (!ifs3.is_open()){
         std::cerr << "Error leyendo archivo Nomina.txt" << endl;
     }
     string linea3 {""};//liena de la nomina
@@ -74,21 +64,17 @@ std::istream& operator >> (std::istream &i, ArbolPlanilla &arbol){
     string linea {""};//linea de las personas
     int idEmpleado {0};
     string nombre {0};
-    string apellido{""};
-    string nombreCompleto{""};//une el nombre completo
+    string apellido{""}, nombreCompleto{""};//une el nombre completo
     string correo{""};
     int tipo{0};
     int idSupervisor {0};    
     
     while (getline(i, linea)) {
         idEmpleado = 0;
-        nombre = "";
-        apellido="";
-        nombreCompleto="";
+        nombre = "";        apellido="";         nombreCompleto="";
         correo="";
         tipo=0;
         idSupervisor = 0;
-
         istringstream stream(linea); 
         
         stream >> idEmpleado;
@@ -111,11 +97,6 @@ std::istream& operator >> (std::istream &i, ArbolPlanilla &arbol){
             Empleado *EmpleadoHorasNuevo = new EmpleadoHoras{nombreCompleto,correo,tipo,horasTrabajadas,salarioHora};
             arbol.AgregarNodo(idEmpleado, EmpleadoHorasNuevo, idSupervisor);
         }
-        
     }
-    
-
-
     return i;
-
 }

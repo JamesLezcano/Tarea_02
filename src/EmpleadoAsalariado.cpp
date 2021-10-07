@@ -12,6 +12,7 @@ EmpleadoAsalariado::EmpleadoAsalariado(std::string nombreCompleto, std::string c
     this->sueldoNeto = sueldoBruto - impuestos;
 }
 
+
 string EmpleadoAsalariado::getNombre(){
     return nombreCompleto;
 }

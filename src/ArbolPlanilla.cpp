@@ -20,9 +20,14 @@ ArbolPlanilla::~ArbolPlanilla() {// Este destructor arranca el proceso de destru
     }
 }
 
-
+double I;
+double B;
+double N;
 void ArbolPlanilla::AgregarNodo(int id_Empleado, Empleado *datos_Empleado, int id_Supervisor){
-    double a= datos_Empleado->getImpuestos();///////////////////////////////////////////////////////----------------------->>>>>>>>>>>>>>>>>>>>>>
+    I += datos_Empleado->getImpuestos();///////////////////////////////////////////////////////----------------------->>>>>>>>>>>>>>>>>>>>>>
+    B += datos_Empleado->getSueldoBruto();
+    N +=  datos_Empleado->getSueldoNeto();
+    cout<<fixed<<I<<endl;
     Nodo *nodo = new Nodo(id_Empleado, datos_Empleado, id_Supervisor);
     if (id_Supervisor == 0){// Si idPadre = 0, es el nodo raíz
         this->raiz = nodo;   
@@ -33,16 +38,17 @@ void ArbolPlanilla::AgregarNodo(int id_Empleado, Empleado *datos_Empleado, int i
     this->elementos.insert(std::pair<int,Nodo *>(id_Empleado, nodo));// Agregar nodo al índice
 }
 
-
-
 std::ostream& operator << (std::ostream &o, const ArbolPlanilla &arbol){
+    ArbolPlanilla a;
     Nodo* raiz = arbol.raiz;
-    o << *(raiz);
+    o << *(raiz)<<endl;
+    o<<"Sueldo Bruto Total:        "<<"Sueldo Neto Total:         "<<"Total Impuestos: "<<endl;
+    o<<std::fixed<<B<<"             "<<N<<"             "<<I;
     return o;
 }
 
 std::istream& operator >> (std::istream &i, ArbolPlanilla &arbol){
-    ifstream ifs2("Nomina.txt", ifstream::in);//////////----------->>>>>Recordar poner error
+    ifstream ifs2("Nomina.txt", ifstream::in);
     if (!ifs2.is_open()){
         std::cerr << "Error leyendo archivo Nomina.txt" << endl;
     }

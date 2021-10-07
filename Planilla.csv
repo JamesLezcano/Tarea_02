@@ -1,601 +1,606 @@
-Supervisor, Id_Empleado, Nombre_Empleado, Sueldo_Neto   
-                     , 1, Denis Tyler, 4278.91, 0
-Denis Tyler, 2, Clarissa Parker, 2880.68, 1
-Clarissa Parker, 6, Boris Wallace, 2804.77, 2
-Boris Wallace, 23, Cassandra Connell, 3806.01, 6
-Boris Wallace, 24, Deborah Nurton, 3169.95, 6
-Deborah Nurton, 65, Chadwick Bennett, 4576.41, 24
-Chadwick Bennett, 155, Christine Herbert, 3296.4, 65
-Christine Herbert, 317, Benjamin Gibbons, 3793.49, 155
-Christine Herbert, 318, Hanna Warden, 4078, 155
-Christine Herbert, 319, Michael Pitt, 3270, 155
-Christine Herbert, 320, Nate Collins, 2955.31, 155
-Christine Herbert, 321, Ron Squire, 2662.88, 155
-Christine Herbert, 322, Nathan Summers, 3240.18, 155
-Deborah Nurton, 66, Liam Knight, 3161.2, 24
-Deborah Nurton, 67, Ramon Ellison, 3675.35, 24
-Boris Wallace, 25, Teagan Roberts, 3786.57, 6
-Clarissa Parker, 7, Maria Alexander, 4185.38, 2
-Maria Alexander, 26, Boris Spencer, 3904.61, 7
-Boris Spencer, 68, Alan Wilde, 4027.23, 26
-Boris Spencer, 69, Rosie Hunt, 3068.17, 26
-Boris Spencer, 70, Percy Sherwood, 4132.39, 26
-Percy Sherwood, 156, Charlize Miller, 3029.75, 70
-Charlize Miller, 323, Hank Ripley, 4099.42, 156
-Charlize Miller, 324, Quinn Price, 4175.54, 156
-Charlize Miller, 325, Melody Ventura, 3814, 156
-Percy Sherwood, 157, Mike Barclay, 3301.6, 70
-Mike Barclay, 326, Tom Drew, 4098.38, 157
-Mike Barclay, 327, Kaylee Stanley, 3060.62, 157
-Mike Barclay, 328, Bryon Williams, 2758.56, 157
-Mike Barclay, 329, Shay Hamilton, 3965.04, 157
-Percy Sherwood, 158, Carl Hood, 3643.03, 70
-Carl Hood, 330, Miley Murray, 3895.59, 158
-Carl Hood, 331, Joseph Emmett, 3686.94, 158
-Carl Hood, 332, Alessia Groves, 4285.14, 158
-Boris Spencer, 71, Jackeline Tobin, 3739.09, 26
-Jackeline Tobin, 159, Blake Noon, 3907.5, 71
-Blake Noon, 333, Doug Stark, 3706.12, 159
-Blake Noon, 334, Bob Wilson, 3164.46, 159
-Blake Noon, 335, Matthew Robinson, 2531.83, 159
-Blake Noon, 336, Bart Pitt, 3544.63, 159
-Jackeline Tobin, 160, Bryce Calderwood, 2953.13, 71
-Bryce Calderwood, 337, Logan Gibson, 4327.73, 160
-Bryce Calderwood, 338, Willow Giles, 3453.81, 160
-Bryce Calderwood, 339, Caitlyn Moss, 4144.65, 160
-Bryce Calderwood, 340, Blake Collins, 4037.49, 160
-Jackeline Tobin, 161, Beatrice Bradshaw, 3350.09, 71
-Beatrice Bradshaw, 341, Marvin Powell, 2990.11, 161
-Beatrice Bradshaw, 342, Hank Reading, 3656.94, 161
-Maria Alexander, 27, Sabrina Robinson, 4069.47, 7
-Sabrina Robinson, 72, Celina Campbell, 4004.33, 27
-Celina Campbell, 162, Adelaide Fenton, 3539.56, 72
-Adelaide Fenton, 343, Sebastian Collins, 3877.02, 162
-Adelaide Fenton, 344, Benny Emmott, 4326.99, 162
-Adelaide Fenton, 345, Bart Mcleod, 3588.32, 162
-Celina Campbell, 163, Havana Whitmore, 2705.17, 72
-Havana Whitmore, 346, Bob Edley, 3184.66, 163
-Havana Whitmore, 347, Phoebe Haines, 4312.08, 163
-Havana Whitmore, 348, Harry Raven, 2814.19, 163
-Havana Whitmore, 349, Kendra Stuart, 4110.55, 163
-Celina Campbell, 164, Jules Mitchell, 3883.2, 72
-Jules Mitchell, 350, Mason Rixon, 2651.36, 164
-Jules Mitchell, 351, Johnny Clarke, 4128.47, 164
-Jules Mitchell, 352, Fred Burge, 4071.48, 164
-Jules Mitchell, 353, Maya Carter, 3291.96, 164
-Jules Mitchell, 354, Luna Oatway, 2580.92, 164
-Sabrina Robinson, 73, Mason Quinn, 3207.96, 27
-Sabrina Robinson, 74, Danny Vallory, 2897.6, 27
-Danny Vallory, 165, Julia Olivier, 3916.68, 74
-Julia Olivier, 355, George Upton, 4302.9, 165
-Danny Vallory, 166, Emerald Ross, 4248.38, 74
-Danny Vallory, 167, Ciara Mcnally, 4054.82, 74
-Maria Alexander, 28, Jacob Driscoll, 4442.16, 7
-Maria Alexander, 29, Josh Downing, 2923.54, 7
-Clarissa Parker, 8, Kurt Wright, 3559.44, 2
-Kurt Wright, 30, Manuel Griffiths, 3463.62, 8
-Manuel Griffiths, 75, Lucas Skinner, 4326.37, 30
-Manuel Griffiths, 76, Tyler Rehman, 4252.97, 30
-Tyler Rehman, 168, Bryon Leigh, 3351.62, 76
-Tyler Rehman, 169, Caleb Boden, 4133.84, 76
-Tyler Rehman, 170, Melanie Gray, 4149.96, 76
-Melanie Gray, 356, Ryan Hunter, 3641.77, 170
-Melanie Gray, 357, Gil Cartwright, 2885.86, 170
-Melanie Gray, 358, Livia Hill, 2667.85, 170
-Tyler Rehman, 171, Kurt Allington, 2810.53, 76
-Kurt Allington, 359, Chad Miller, 3027.48, 171
-Kurt Allington, 360, Ronald Bristow, 3574.68, 171
-Kurt Allington, 361, Abdul Robinson, 3897.1, 171
-Manuel Griffiths, 77, Daphne Mullins, 3753.27, 30
-Daphne Mullins, 172, Sage Forester, 3242.05, 77
-Sage Forester, 362, Mark Wellington, 3783.07, 172
-Sage Forester, 363, Ronald Wooldridge, 2980.45, 172
-Sage Forester, 364, Benjamin Thornton, 3484.99, 172
-Daphne Mullins, 173, Barney Nielson, 3756.57, 77
-Daphne Mullins, 174, Leroy Wild, 2712.26, 77
-Leroy Wild, 365, Tony Trent, 3039.7, 174
-Leroy Wild, 366, Teagan Shaw, 4238.95, 174
-Leroy Wild, 367, Noah Fall, 3092, 174
-Kurt Wright, 31, Maddison Silva, 3348.2, 8
-Maddison Silva, 78, Selena Patel, 3389.21, 31
-Maddison Silva, 79, Charlize Whitmore, 3195.81, 31
-Kurt Wright, 32, Camellia Watson, 3611.92, 8
-Denis Tyler, 3, Harmony Rycroft, 4265.37, 1
-Harmony Rycroft, 9, Dani James, 4534.5, 3
-Dani James, 33, Bob Booth, 4402.55, 9
-Dani James, 34, George Cassidy, 4016.19, 9
-George Cassidy, 80, Brad Nurton, 3993.97, 34
-Brad Nurton, 175, Elijah Collis, 3335.88, 80
-Brad Nurton, 176, Remy Hancock, 3665.41, 80
-Remy Hancock, 368, Phillip Bailey, 4039.79, 176
-Remy Hancock, 369, Juliette Dickson, 4063.6, 176
-Remy Hancock, 370, Clint Briggs, 3483.81, 176
-Remy Hancock, 371, Owen Whinter, 3027.73, 176
-Brad Nurton, 177, Lara Simpson, 3036.38, 80
-Lara Simpson, 372, Dasha Reynolds, 3058.3, 177
-Lara Simpson, 373, Ruby Bradley, 3935.78, 177
-Lara Simpson, 374, Hayden Whatson, 2797.39, 177
-George Cassidy, 81, Francesca Driscoll, 3926.75, 34
-Francesca Driscoll, 178, Alan Kelly, 3371.83, 81
-Francesca Driscoll, 179, Benny Cattell, 3910.05, 81
-George Cassidy, 82, Rick Roth, 4558.62, 34
-George Cassidy, 83, Luke Walker, 4459.28, 34
-Dani James, 35, Hayden Collins, 3325.95, 9
-Hayden Collins, 84, Russel Middleton, 3637.73, 35
-Russel Middleton, 180, Jacqueline Davies, 4398.27, 84
-Jacqueline Davies, 375, Bart Marshall, 2688.81, 180
-Jacqueline Davies, 376, Davina Notman, 3577.37, 180
-Jacqueline Davies, 377, Allison Flett, 3169.12, 180
-Russel Middleton, 181, Ellen Gardner, 3232.21, 84
-Ellen Gardner, 378, Percy Andrews, 2757.65, 181
-Ellen Gardner, 379, Rufus Scott, 3465, 181
-Russel Middleton, 182, Michael Cameron, 3824.29, 84
-Russel Middleton, 183, Marjorie Hepburn, 3884.9, 84
-Hayden Collins, 85, Michelle Mcgee, 3844.27, 35
-Michelle Mcgee, 184, Percy Rixon, 2959.89, 85
-Percy Rixon, 380, Maria Gibson, 3336.58, 184
-Percy Rixon, 381, Julius Michael, 2875.75, 184
-Percy Rixon, 382, Paige Hamilton, 4276.53, 184
-Percy Rixon, 383, Eryn Poole, 3943.07, 184
-Michelle Mcgee, 185, Goldie Giles, 3523.25, 85
-Goldie Giles, 384, Javier Pierce, 3726.92, 185
-Goldie Giles, 385, Russel Connell, 3784.11, 185
-Dani James, 36, Phillip Curtis, 3825.24, 9
-Phillip Curtis, 86, Margaret Hunter, 3272.51, 36
-Margaret Hunter, 186, Bethany Whinter, 3585.41, 86
-Bethany Whinter, 386, Tyson Ranks, 4156.1, 186
-Bethany Whinter, 387, Benny Woodley, 4286.36, 186
-Bethany Whinter, 388, Lucas Cobb, 3602.23, 186
-Bethany Whinter, 389, Ally Gordon, 3626.27, 186
-Margaret Hunter, 187, Estrella Wallace, 3301.33, 86
-Estrella Wallace, 390, Alba Grady, 4005.97, 187
-Estrella Wallace, 391, Drew Lewis, 2964.6, 187
-Margaret Hunter, 188, Shelby Tutton, 2820.66, 86
-Margaret Hunter, 189, Georgia Walsh, 3340.32, 86
-Georgia Walsh, 392, Bristol Morley, 2805.18, 189
-Georgia Walsh, 393, Thea Dyson, 2554.24, 189
-Phillip Curtis, 87, Matt Woods, 4473.1, 36
-Matt Woods, 190, Lillian Robertson, 3018.02, 87
-Lillian Robertson, 394, Grace Wild, 2947.91, 190
-Lillian Robertson, 395, Maxwell Hunter, 3709.36, 190
-Lillian Robertson, 396, Nancy Strong, 3752.83, 190
-Matt Woods, 191, Judith Anderson, 2876.69, 87
-Phillip Curtis, 88, Ellen Becker, 3216.18, 36
-Phillip Curtis, 89, Julius Robe, 4497.81, 36
-Julius Robe, 192, Chris Parker, 3823.32, 89
-Julius Robe, 193, Joseph Nelson, 3775.27, 89
-Harmony Rycroft, 10, Caitlyn Allen, 4421.13, 3
-Caitlyn Allen, 37, Barney Preston, 3290.38, 10
-Barney Preston, 90, Jazmin Porter, 3024.9, 37
-Jazmin Porter, 194, Remy Evans, 2874.43, 90
-Jazmin Porter, 195, Crystal Pierce, 2677.64, 90
-Crystal Pierce, 397, Ivette Alexander, 2544.56, 195
-Crystal Pierce, 398, Rosalyn Veale, 2710.89, 195
-Crystal Pierce, 399, Gil Hunt, 3553.67, 195
-Crystal Pierce, 400, Abdul Gibbons, 4166.31, 195
-Jazmin Porter, 196, Florence Jacobs, 2945.94, 90
-Barney Preston, 91, Eduardo Dwyer, 3827.15, 37
-Caitlyn Allen, 38, Hayden Bishop, 3381.75, 10
-Caitlyn Allen, 39, Abbey Goodman, 4269.51, 10
-Abbey Goodman, 92, Ivette Webster, 3495.52, 39
-Abbey Goodman, 93, Noah James, 2893.03, 39
-Caitlyn Allen, 40, Caydence Mould, 4556.99, 10
-Caydence Mould, 94, Rosalee Cunningham, 4173.53, 40
-Caydence Mould, 95, Dasha Matthews, 3917.94, 40
-Dasha Matthews, 197, Mike John, 3249.4, 95
-Dasha Matthews, 198, Greta Olson, 3265.79, 95
-Dasha Matthews, 199, Remy Bryson, 3675.23, 95
-Dasha Matthews, 200, Doris Mcnally, 3554.47, 95
-Doris Mcnally, 401, Bristol Giles, 3702.53, 200
-Caydence Mould, 96, Michelle Asher, 4235.39, 40
-Harmony Rycroft, 11, Erick Uttley, 3184.42, 3
-Erick Uttley, 41, Josh Seymour, 3520.8, 11
-Erick Uttley, 42, Penelope York, 2987.93, 11
-Harmony Rycroft, 12, Carmen Zaoui, 3540.75, 3
-Carmen Zaoui, 43, Chester Carter, 2927.97, 12
-Carmen Zaoui, 44, Rose Abbey, 3320.49, 12
-Carmen Zaoui, 45, Andrea Harvey, 3447.58, 12
-Andrea Harvey, 97, Jacob Gray, 2936.27, 45
-Andrea Harvey, 98, Cedrick Redden, 3290.01, 45
-Andrea Harvey, 99, Noah Thompson, 3615.04, 45
-Andrea Harvey, 100, Tony Dillon, 2725.9, 45
-Tony Dillon, 201, Logan Edmonds, 3442.93, 100
-Logan Edmonds, 402, Bernadette Morley, 2724.69, 201
-Logan Edmonds, 403, Alessandra Blackwall, 4178.05, 201
-Logan Edmonds, 404, Lexi Carson, 3346.85, 201
-Logan Edmonds, 405, Ethan Furnell, 3701.24, 201
-Denis Tyler, 4, Alan Patel, 4283.76, 1
-Alan Patel, 13, Bernadette Dickson, 3810.44, 4
-Bernadette Dickson, 46, Alice Hastings, 3831.75, 13
-Bernadette Dickson, 47, Emerald Boyle, 4019.96, 13
-Bernadette Dickson, 48, Anthony Andersson, 3723.12, 13
-Bernadette Dickson, 49, Nick Lomax, 4228.18, 13
-Alan Patel, 14, Clint Cork, 4343.74, 4
-Clint Cork, 50, Boris Doherty, 3251.91, 14
-Boris Doherty, 101, Denny Dubois, 3645.94, 50
-Denny Dubois, 202, Emerald Lindsay, 3627.12, 101
-Emerald Lindsay, 406, Josh Hunter, 2960.02, 202
-Emerald Lindsay, 407, Charlotte Varndell, 3634.43, 202
-Emerald Lindsay, 408, Eduardo Gregory, 3580.22, 202
-Denny Dubois, 203, Peter Needham, 3027.03, 101
-Peter Needham, 409, Carl Cann, 3856.47, 203
-Peter Needham, 410, Kaylee Reynolds, 4256.49, 203
-Peter Needham, 411, Noah Robertson, 3647.23, 203
-Peter Needham, 412, Sabrina Goodman, 2813.19, 203
-Denny Dubois, 204, Jayden Gosling, 3770.49, 101
-Jayden Gosling, 413, Audrey Neal, 2819.92, 204
-Jayden Gosling, 414, Margot Osman, 2745.61, 204
-Jayden Gosling, 415, Cara Richards, 3409.85, 204
-Jayden Gosling, 416, Cedrick Furnell, 3787.41, 204
-Denny Dubois, 205, Maxwell Hill, 3584.17, 101
-Maxwell Hill, 417, Martin Roth, 3293.5, 205
-Maxwell Hill, 418, Stella Dixon, 2847.85, 205
-Maxwell Hill, 419, Maya Yoman, 3080.21, 205
-Maxwell Hill, 420, Joy Morrow, 3958.85, 205
-Maxwell Hill, 421, Hayden Aldridge, 3422.34, 205
-Maxwell Hill, 422, Peter Rodwell, 4005.07, 205
-Clint Cork, 51, David Bowen, 4367.5, 14
-David Bowen, 102, Stacy Cassidy, 3114.6, 51
-Stacy Cassidy, 206, Regina Coleman, 2720.69, 102
-Regina Coleman, 423, Manuel Bishop, 3301.32, 206
-Regina Coleman, 424, Clint Ring, 3124.18, 206
-Regina Coleman, 425, Shay James, 3850.9, 206
-Stacy Cassidy, 207, Celina Clarke, 3091.15, 102
-Celina Clarke, 426, Rocco Ellis, 3742.8, 207
-Celina Clarke, 427, Rick Overson, 2715.58, 207
-Celina Clarke, 428, Stella Lynch, 2801.17, 207
-Celina Clarke, 429, Denis Yarlett, 3603.67, 207
-Stacy Cassidy, 208, Nicholas Alldridge, 4099.02, 102
-Nicholas Alldridge, 430, Destiny Notman, 2423.58, 208
-Nicholas Alldridge, 431, Kamila Andrews, 3511.48, 208
-Nicholas Alldridge, 432, Gwen Gosling, 4104.04, 208
-David Bowen, 103, Julianna Warren, 4254.2, 51
-Julianna Warren, 209, Vicky Mullins, 2882.77, 103
-Vicky Mullins, 433, Ron Amstead, 3779.33, 209
-Vicky Mullins, 434, Ivette Partridge, 4100.1, 209
-Vicky Mullins, 435, Denny Rowe, 2804.06, 209
-Vicky Mullins, 436, Elena Whatson, 3632.15, 209
-Julianna Warren, 210, Cedrick Clark, 3409.73, 103
-Cedrick Clark, 437, Aeris Brennan, 3801.75, 210
-Cedrick Clark, 438, Crystal Martin, 2927.14, 210
-Cedrick Clark, 439, Nate Scott, 3289.26, 210
-Cedrick Clark, 440, Mark Shaw, 3012.62, 210
-Julianna Warren, 211, Scarlett Thompson, 2962.49, 103
-Scarlett Thompson, 441, David Freeburn, 2414.1, 211
-Scarlett Thompson, 442, Alexander Gaynor, 2808, 211
-Julianna Warren, 212, Chris Jarvis, 4074.13, 103
-Chris Jarvis, 443, Jennifer Hewitt, 3331.59, 212
-Chris Jarvis, 444, Chelsea Thompson, 3720.33, 212
-Chris Jarvis, 445, Robyn Craig, 2632.8, 212
-David Bowen, 104, Caleb Wild, 3437.38, 51
-Caleb Wild, 213, Ron Warner, 3152.63, 104
-Ron Warner, 446, Sofia Bloom, 3146.21, 213
-Ron Warner, 447, Aisha Wellington, 3481.11, 213
-Ron Warner, 448, Willow Walker, 3557.09, 213
-Ron Warner, 449, Sofia Walsh, 2972.49, 213
-Caleb Wild, 214, Shay Matthews, 4017.37, 104
-Shay Matthews, 450, Jayden Collins, 3664.05, 214
-Shay Matthews, 451, Ryan Webster, 0, 214
-Shay Matthews, 452, Emmanuelle Tennant, 1498.12, 214
-Shay Matthews, 453, Madison Niles, 3174.05, 214
-Shay Matthews, 454, Julius Abbey, 2367.39, 214
-Caleb Wild, 215, Daphne Clarke, 2618.28, 104
-Daphne Clarke, 455, Chris Beal, 825.92, 215
-Caleb Wild, 216, Priscilla Oldfield, 3523.04, 104
-David Bowen, 105, Rosie Bishop, 3843.25, 51
-Rosie Bishop, 217, Alba Drake, 3379.17, 105
-Rosie Bishop, 218, Julian Milner, 3319.08, 105
-Rosie Bishop, 219, Nancy Quinnell, 3454.06, 105
-Rosie Bishop, 220, Aiden Griffiths, 3648.08, 105
-Aiden Griffiths, 456, Bart Talbot, 4033.32, 220
-Aiden Griffiths, 457, Barney Patel, 496.5, 220
-Aiden Griffiths, 458, Leroy Grady, 2564.5, 220
-Rosie Bishop, 221, Carl Dillon, 2884.31, 105
-Carl Dillon, 459, Summer Forth, 2262.92, 221
-Carl Dillon, 460, Selena Eyres, 2927.7, 221
-Carl Dillon, 461, Sara Dallas, 227.64, 221
-Rosie Bishop, 222, Jessica Blackwall, 3677.02, 105
-Jessica Blackwall, 462, Cameron Chester, 5251.95, 222
-Jessica Blackwall, 463, Madelyn Woodcock, 583.3, 222
-Jessica Blackwall, 464, Harmony Roth, 3213.27, 222
-Clint Cork, 52, Sabrina Morris, 4460.69, 14
-Sabrina Morris, 106, Benjamin Rosenbloom, 3539.59, 52
-Benjamin Rosenbloom, 223, Sonya Ventura, 3967.08, 106
-Benjamin Rosenbloom, 224, Rosie Hancock, 3055.02, 106
-Rosie Hancock, 465, Tess Needham, 642.77, 224
-Rosie Hancock, 466, Nathan Preston, 3614.52, 224
-Rosie Hancock, 467, Gwenyth Bullock, 3679.28, 224
-Benjamin Rosenbloom, 225, Percy Raven, 3368.71, 106
-Sabrina Morris, 107, Bart Butler, 3814.74, 52
-Bart Butler, 226, Sage Dixon, 3595.35, 107
-Sage Dixon, 468, Ethan Huggins, 5444.01, 226
-Sage Dixon, 469, Daria James, 3359.58, 226
-Sage Dixon, 470, Bree Thornton, 2856.06, 226
-Sage Dixon, 471, Georgia Michael, 4476, 226
-Bart Butler, 227, Michelle Zaoui, 4064.45, 107
-Michelle Zaoui, 472, Melanie Bullock, 1629.68, 227
-Michelle Zaoui, 473, Georgia Giles, 523.92, 227
-Michelle Zaoui, 474, Denny Ventura, 105.24, 227
-Bart Butler, 228, Rick Oldfield, 3466.34, 107
-Bart Butler, 229, Elijah Kidd, 3117.85, 107
-Sabrina Morris, 108, Harry Nurton, 2691.95, 52
-Harry Nurton, 230, Boris Collins, 3108.15, 108
-Boris Collins, 475, Marvin Richards, 582.3, 230
-Boris Collins, 476, Roger Williams, 1052.22, 230
-Boris Collins, 477, William Allen, 3393.16, 230
-Harry Nurton, 231, Mabel Owen, 3503.97, 108
-Mabel Owen, 478, Charlotte Ward, 3608.36, 231
-Mabel Owen, 479, Anthony Brooks, 4341.31, 231
-Harry Nurton, 232, Carissa Lambert, 3734.69, 108
-Clint Cork, 53, Rhea Dempsey, 2905.4, 14
-Rhea Dempsey, 109, Lindsay Welsch, 3724.98, 53
-Lindsay Welsch, 233, Clint Matthews, 3317.76, 109
-Lindsay Welsch, 234, Amy Newman, 3269.49, 109
-Amy Newman, 480, Cristal Murray, 3073.29, 234
-Amy Newman, 481, Phillip Shelton, 1285.35, 234
-Amy Newman, 482, Leroy Rivers, 2195.72, 234
-Amy Newman, 483, Daron Mcgregor, 245.8, 234
-Lindsay Welsch, 235, Johnny Donnelly, 3806.28, 109
-Johnny Donnelly, 484, Gwen Radley, 2123.6, 235
-Johnny Donnelly, 485, Mona Atkinson, 2918.5, 235
-Lindsay Welsch, 236, Daron Waterson, 2928.92, 109
-Daron Waterson, 486, Alexa Ralph, 222.18, 236
-Daron Waterson, 487, Bart Noon, 2754.6, 236
-Daron Waterson, 488, Ronald Wilton, 3352.58, 236
-Daron Waterson, 489, Payton Baker, 2476.6, 236
-Rhea Dempsey, 110, Ronald Everett, 3031.24, 53
-Ronald Everett, 237, Tony Nicolas, 3966.63, 110
-Tony Nicolas, 490, Logan Weasley, 2088, 237
-Tony Nicolas, 491, Maxwell Taylor, 2124.72, 237
-Ronald Everett, 238, Ronald Bryant, 4086.24, 110
-Ronald Everett, 239, Mavis Rees, 3893.4, 110
-Mavis Rees, 492, Rosalee Gilmour, 3466.52, 239
-Mavis Rees, 493, Barney Gordon, 2491.56, 239
-Ronald Everett, 240, Lana Walter, 4156.66, 110
-Lana Walter, 494, Ivy Talbot, 400.86, 240
-Lana Walter, 495, Stephanie Rycroft, 1332.36, 240
-Lana Walter, 496, Makena Crawley, 3451.16, 240
-Rhea Dempsey, 111, Alessandra Scott, 3998.64, 53
-Alessandra Scott, 241, Alba Strong, 3948.46, 111
-Alessandra Scott, 242, Mina Rosenbloom, 3606.22, 111
-Rhea Dempsey, 112, Alma Griffiths, 2871.78, 53
-Alma Griffiths, 243, Bristol Richards, 2957.52, 112
-Alma Griffiths, 244, Isabel Trent, 4170.07, 112
-Alma Griffiths, 245, Maxwell Dann, 4108.97, 112
-Maxwell Dann, 497, Boris Bailey, 892.35, 245
-Maxwell Dann, 498, William Pickard, 1425.04, 245
-Maxwell Dann, 499, Irene Michael, 2160.7, 245
-Maxwell Dann, 500, Maxwell Fowler, 212, 245
-Clint Cork, 54, Katelyn White, 2881.15, 14
-Katelyn White, 113, Jenna Powell, 4507.57, 54
-Jenna Powell, 246, Aurelia Uddin, 3070.18, 113
-Jenna Powell, 247, Rick Nayler, 3335.21, 113
-Jenna Powell, 248, Maxwell King, 4025.3, 113
-Jenna Powell, 249, Chad Knight, 3891.44, 113
-Katelyn White, 114, John Furnell, 3112.49, 54
-John Furnell, 250, Nathan Morgan, 3540.99, 114
-Nathan Morgan, 501, Brad Paterson, 1811.52, 250
-John Furnell, 251, Abdul Weatcroft, 4370.87, 114
-Abdul Weatcroft, 502, Alexander Osmond, 154.72, 251
-Abdul Weatcroft, 503, Sydney Phillips, 819.14, 251
-Abdul Weatcroft, 504, Jacob Parr, 171, 251
-Abdul Weatcroft, 505, Owen Burge, 1970.5, 251
-John Furnell, 252, Valentina Walker, 3758.34, 114
-Valentina Walker, 506, Hanna Verdon, 2205.64, 252
-Valentina Walker, 507, Martin Logan, 3517.26, 252
-Valentina Walker, 508, Henry Holt, 4449.8, 252
-John Furnell, 253, Victoria Flack, 2691.19, 114
-Victoria Flack, 509, Jazmin Kidd, 1859, 253
-Victoria Flack, 510, Barry Phillips, 3332.68, 253
-Victoria Flack, 511, Adalie Stewart, 4134.24, 253
-Victoria Flack, 512, Percy Clarke, 3009, 253
-John Furnell, 254, Doug Tyler, 4111.46, 114
-Doug Tyler, 513, Courtney James, 3524.64, 254
-Doug Tyler, 514, Benny Tyrrell, 2029.04, 254
-Doug Tyler, 515, Ally Stevenson, 3278.4, 254
-Doug Tyler, 516, Rosa Tait, 944, 254
-Katelyn White, 115, Jamie Parker, 2888.21, 54
-Jamie Parker, 255, Helen Vince, 3666.47, 115
-Helen Vince, 517, Tania Hamilton, 3505.89, 255
-Helen Vince, 518, Louise Oatway, 1779.84, 255
-Helen Vince, 519, Sasha Allen, 3590.64, 255
-Helen Vince, 520, Angela Briggs, 409.36, 255
-Helen Vince, 521, Emery Townend, 747.46, 255
-Helen Vince, 522, Phillip Wilkinson, 2958.69, 255
-Katelyn White, 116, Anthony Scott, 3511.14, 54
-Alan Patel, 15, Stella Rossi, 4206.84, 4
-Stella Rossi, 55, Leilani Reese, 4210.57, 15
-Leilani Reese, 117, Lucas Wilkinson, 2924.81, 55
-Leilani Reese, 118, Havana Watson, 4468.36, 55
-Leilani Reese, 119, Percy Hilton, 3196.49, 55
-Leilani Reese, 120, Wade Booth, 2994.24, 55
-Wade Booth, 256, Danny Neville, 3831.69, 120
-Danny Neville, 523, Abbey Stanley, 3753.64, 256
-Danny Neville, 524, Russel Blythe, 1167.75, 256
-Danny Neville, 525, Caydence Shea, 914.24, 256
-Wade Booth, 257, Tony Vince, 4043.5, 120
-Tony Vince, 526, Eduardo Rigg, 2060.45, 257
-Tony Vince, 527, Johnathan Mcgee, 3102.94, 257
-Tony Vince, 528, Beatrice Saunders, 411.52, 257
-Tony Vince, 529, Rosalee Kelly, 973.94, 257
-Wade Booth, 258, Gwenyth Groves, 3728.12, 120
-Gwenyth Groves, 530, Rick Lynch, 4293.52, 258
-Gwenyth Groves, 531, Josh Bryant, 3145.71, 258
-Gwenyth Groves, 532, Denny Corbett, 2520.18, 258
-Leilani Reese, 121, Clarissa Gray, 3510.32, 55
-Clarissa Gray, 259, Brad Antcliff, 3961.28, 121
-Brad Antcliff, 533, Jane Marshall, 3488.12, 259
-Brad Antcliff, 534, Hank Pearson, 3778.6, 259
-Brad Antcliff, 535, Mark Terry, 3461.04, 259
-Brad Antcliff, 536, Angelique Williams, 1775.4, 259
-Clarissa Gray, 260, Sarah Fleming, 3771.93, 121
-Sarah Fleming, 537, Amy Booth, 2818.48, 260
-Sarah Fleming, 538, Carissa Woodcock, 3846.06, 260
-Sarah Fleming, 539, Esmeralda Olivier, 2571.48, 260
-Sarah Fleming, 540, Russel Chappell, 446.29, 260
-Clarissa Gray, 261, Ruth Yarlett, 2608.73, 121
-Ruth Yarlett, 541, Moira Mann, 1402.8, 261
-Ruth Yarlett, 542, Enoch Eddison, 1044.16, 261
-Leilani Reese, 122, Catherine Collins, 3345.25, 55
-Catherine Collins, 262, Havana Rainford, 4165.68, 122
-Havana Rainford, 543, Belinda Cork, 449.76, 262
-Havana Rainford, 544, Gabriel Forester, 3907.2, 262
-Havana Rainford, 545, Danny Jones, 3204.32, 262
-Catherine Collins, 263, John Stewart, 2990.41, 122
-John Stewart, 546, Carmella Osman, 2934.85, 263
-John Stewart, 547, Phillip Jones, 475.16, 263
-John Stewart, 548, Violet Stone, 3015.36, 263
-John Stewart, 549, Molly Russel, 2681.27, 263
-Catherine Collins, 264, Rita Chapman, 3389.25, 122
-Rita Chapman, 550, Eileen Cooper, 5621.15, 264
-Rita Chapman, 551, Isla Paterson, 2831.5, 264
-Rita Chapman, 552, Laila Price, 5173.01, 264
-Rita Chapman, 553, Lynn Briggs, 72.22, 264
-Rita Chapman, 554, Nick Baker, 2217.6, 264
-Alan Patel, 16, Angela Thornton, 3459.79, 4
-Denis Tyler, 5, Domenic Eaton, 4529.1, 1
-Domenic Eaton, 17, Cameron Pickard, 3834.9, 5
-Domenic Eaton, 18, Enoch Umney, 4161.73, 5
-Domenic Eaton, 19, Bryon Plant, 3843.75, 5
-Domenic Eaton, 20, Charlize Horton, 3450.39, 5
-Charlize Horton, 56, Roger Wild, 3135.61, 20
-Roger Wild, 123, Enoch Mitchell, 2988.69, 56
-Roger Wild, 124, Abdul Heaton, 3005.08, 56
-Abdul Heaton, 265, Adela Mould, 2718.85, 124
-Adela Mould, 555, Mackenzie Parker, 3478.88, 265
-Abdul Heaton, 266, Meredith Wright, 4261.38, 124
-Abdul Heaton, 267, Aurelia Roberts, 3583.84, 124
-Roger Wild, 125, Peyton Russel, 3998, 56
-Charlize Horton, 57, Ryan Grant, 3397.89, 20
-Ryan Grant, 126, Andrea Ellison, 4236.54, 57
-Andrea Ellison, 268, David Jarvis, 2693.07, 126
-Andrea Ellison, 269, Agnes Emmott, 3651.06, 126
-Andrea Ellison, 270, Noah Wigley, 3488.82, 126
-Noah Wigley, 556, Melody Mann, 828.66, 270
-Noah Wigley, 557, Phillip Kerr, 535.92, 270
-Noah Wigley, 558, Thea Cox, 3066.66, 270
-Andrea Ellison, 271, Fred Savage, 3584.19, 126
-Fred Savage, 559, Jayden Henderson, 2865.17, 271
-Fred Savage, 560, Daria Adams, 1142.46, 271
-Fred Savage, 561, Anthony Maxwell, 2715.77, 271
-Ryan Grant, 127, Carissa Quinnell, 3787.31, 57
-Carissa Quinnell, 272, Julius Rycroft, 3977.99, 127
-Julius Rycroft, 562, Anthony Tennant, 4118.54, 272
-Julius Rycroft, 563, John Bright, 3138.12, 272
-Julius Rycroft, 564, Chester Tailor, 266.72, 272
-Carissa Quinnell, 273, Courtney Morris, 2673.56, 127
-Carissa Quinnell, 274, Jayden Ralph, 4194.02, 127
-Jayden Ralph, 565, Phoebe Wilcox, 2650.52, 274
-Jayden Ralph, 566, Celia Miller, 3113.22, 274
-Jayden Ralph, 567, Barney Weatcroft, 1341.72, 274
-Ryan Grant, 128, Estrella Gates, 3979.16, 57
-Ryan Grant, 129, Mike Palmer, 3624.95, 57
-Charlize Horton, 58, Kate Waterson, 4285.61, 20
-Kate Waterson, 130, Carl Saunders, 4082.67, 58
-Carl Saunders, 275, Angelina Strong, 3898.08, 130
-Carl Saunders, 276, Liv Casey, 2647.24, 130
-Liv Casey, 568, Eduardo Gilmore, 1545.48, 276
-Liv Casey, 569, Cristal Nielson, 1662.61, 276
-Liv Casey, 570, Manuel Wren, 1614.6, 276
-Liv Casey, 571, Percy Power, 2212.98, 276
-Carl Saunders, 277, Alan Waterhouse, 3690.22, 130
-Alan Waterhouse, 572, Britney Dixon, 5351.42, 277
-Alan Waterhouse, 573, Samara Williams, 4543.56, 277
-Alan Waterhouse, 574, Rosa Russel, 3711.2, 277
-Kate Waterson, 131, Michelle Stone, 3872.05, 58
-Michelle Stone, 278, Leroy Jarvis, 3781.79, 131
-Michelle Stone, 279, Boris Lee, 3189.8, 131
-Kate Waterson, 132, Aiden Craig, 3650.25, 58
-Domenic Eaton, 21, Doug Kelly, 2823.05, 5
-Doug Kelly, 59, Lynn Martin, 4445.44, 21
-Lynn Martin, 133, Natalie Vinton, 4117.7, 59
-Lynn Martin, 134, Matthew Pickard, 2679.18, 59
-Matthew Pickard, 280, Gloria Robinson, 3442.38, 134
-Gloria Robinson, 575, Erick Holmes, 314.58, 280
-Gloria Robinson, 576, Makena Cann, 1359.04, 280
-Gloria Robinson, 577, Jane Tindall, 4942.08, 280
-Matthew Pickard, 281, Matthew Thorne, 3299.39, 134
-Matthew Thorne, 578, William Jarrett, 919.68, 281
-Matthew Thorne, 579, Ronald Coates, 4437.84, 281
-Matthew Pickard, 282, Stephanie Thomas, 4208.4, 134
-Matthew Pickard, 283, Josh Addison, 3452.41, 134
-Lynn Martin, 135, Sofia Steer, 3703.6, 59
-Sofia Steer, 284, Tom Lewis, 3676.88, 135
-Tom Lewis, 580, Peyton Robinson, 4109.4, 284
-Tom Lewis, 581, Marjorie Alcroft, 2193.91, 284
-Tom Lewis, 582, Bristol Knight, 2829, 284
-Tom Lewis, 583, Alexander King, 675.72, 284
-Sofia Steer, 285, Emma Rogers, 4304.24, 135
-Emma Rogers, 584, Maggie Funnell, 4548.18, 285
-Emma Rogers, 585, Kirsten Norman, 3735.9, 285
-Lynn Martin, 136, Tom Oliver, 2722.33, 59
-Tom Oliver, 286, Percy Grant, 2622.4, 136
-Percy Grant, 586, Joy Jefferson, 176.12, 286
-Percy Grant, 587, Denis Larkin, 1397.52, 286
-Percy Grant, 588, Mabel Yoman, 681.48, 286
-Percy Grant, 589, Johnny Walton, 3708, 286
-Tom Oliver, 287, Leanne Flack, 4285.31, 136
-Leanne Flack, 590, Josh Dann, 1285.47, 287
-Leanne Flack, 591, Ryan Becker, 3233.28, 287
-Tom Oliver, 288, Martha Alexander, 4163.65, 136
-Tom Oliver, 289, Mina Hamilton, 4148.14, 136
-Mina Hamilton, 592, Anais Gaynor, 1361.84, 289
-Mina Hamilton, 593, Darlene Johnson, 2046.1, 289
-Doug Kelly, 60, Benjamin Dowson, 3037.22, 21
-Benjamin Dowson, 137, Agnes Chadwick, 3456.72, 60
-Agnes Chadwick, 290, Barry Farrow, 3823.42, 137
-Barry Farrow, 594, Gil Wooldridge, 2484.06, 290
-Barry Farrow, 595, Adina Wright, 3465.6, 290
-Barry Farrow, 596, Bart Davies, 1462.64, 290
-Agnes Chadwick, 291, Kieth Carter, 2766.79, 137
-Benjamin Dowson, 138, Mavis Turner, 2911.1, 60
-Benjamin Dowson, 139, Rocco Shields, 4359.03, 60
-Rocco Shields, 292, Sonya Sinclair, 3364.28, 139
-Rocco Shields, 293, Abdul Barrett, 3548.2, 139
-Benjamin Dowson, 140, Caleb Jenkin, 3303.46, 60
-Caleb Jenkin, 294, Bryce Owens, 3751.15, 140
-Caleb Jenkin, 295, Elijah Stevens, 3132.23, 140
-Elijah Stevens, 597, Cassidy Griffiths, 4293.6, 295
-Elijah Stevens, 598, Audrey Pond, 2095.2, 295
-Elijah Stevens, 599, Faith Leigh, 3105, 295
-Elijah Stevens, 600, Hank Jackson, 806.7, 295
-Caleb Jenkin, 296, Maria Mcneill, 3600.6, 140
-Doug Kelly, 61, Domenic Yoman, 4000.8, 21
-Domenic Yoman, 141, Roger Stevens, 3766.87, 61
-Domenic Yoman, 142, Lucas Shea, 3482.76, 61
-Domenic Eaton, 22, Elijah Eyres, 3825.84, 5
-Elijah Eyres, 62, Jacob Carter, 4564.04, 22
-Jacob Carter, 143, Stephanie Parker, 3605.26, 62
-Jacob Carter, 144, Cara Bayliss, 3808.62, 62
-Jacob Carter, 145, Francesca Sherwood, 4093.67, 62
-Francesca Sherwood, 297, Kieth Riley, 4370.64, 145
-Francesca Sherwood, 298, Johnny Bennett, 3478.41, 145
-Francesca Sherwood, 299, Ramon Clayton, 4339.85, 145
-Francesca Sherwood, 300, John Leslie, 3263.46, 145
-Elijah Eyres, 63, Javier Holmes, 4090.34, 22
-Javier Holmes, 146, Daron Windsor, 3099.5, 63
-Javier Holmes, 147, Harry Chapman, 3571.61, 63
-Javier Holmes, 148, Rosalee Holmes, 3166.57, 63
-Javier Holmes, 149, Skylar Attwood, 4191.85, 63
-Elijah Eyres, 64, Henry Roscoe, 3923.73, 22
-Henry Roscoe, 150, Alexander Sinclair, 4457.89, 64
-Alexander Sinclair, 301, Aurelia Chester, 3016.34, 150
-Henry Roscoe, 151, Alex Rixon, 3535.81, 64
-Alex Rixon, 302, Doug Edwards, 3377.71, 151
-Alex Rixon, 303, Ron Edmonds, 3369.49, 151
-Alex Rixon, 304, Ronald Michael, 3617.47, 151
-Alex Rixon, 305, Amy King, 3826.61, 151
-Henry Roscoe, 152, Paige Villiger, 3880.95, 64
-Paige Villiger, 306, Emery Waterhouse, 3971.04, 152
-Paige Villiger, 307, Manuel Radley, 4284.56, 152
-Paige Villiger, 308, Kieth Wild, 2670.82, 152
-Henry Roscoe, 153, Luke London, 4110.4, 64
-Luke London, 309, Angela Higgs, 4298.66, 153
-Luke London, 310, Cassidy Button, 4082.27, 153
-Luke London, 311, Rihanna Nobbs, 3257.51, 153
-Luke London, 312, Anthony Brown, 3207.99, 153
-Henry Roscoe, 154, Cedrick Price, 3855.37, 64
-Cedrick Price, 313, Tony Greenwood, 2991.33, 154
-Cedrick Price, 314, Percy Walton, 4169, 154
-Cedrick Price, 315, Marvin Harper, 4256.81, 154
-Cedrick Price, 316, Shay Gonzales, 4249.64, 154
+   ID    ,  NOMBRE  ,                         ,   SUELDO   
+EMPLEADO , EMPLEADO ,            SUPERVISOR   ,   NETO     
+
+1 ,       Denis Tyler ,                     ,       4278.91
+2 ,       Clarissa Parker ,       Denis Tyler ,       2880.68
+6 ,       Boris Wallace ,       Clarissa Parker ,       2804.77
+23 ,       Cassandra Connell ,       Boris Wallace ,       3806.01
+24 ,       Deborah Nurton ,       Boris Wallace ,       3169.95
+65 ,       Chadwick Bennett ,       Deborah Nurton ,       4576.41
+155 ,       Christine Herbert ,       Chadwick Bennett ,       3296.4
+317 ,       Benjamin Gibbons ,       Christine Herbert ,       3793.49
+318 ,       Hanna Warden ,       Christine Herbert ,       4078
+319 ,       Michael Pitt ,       Christine Herbert ,       3270
+320 ,       Nate Collins ,       Christine Herbert ,       2955.31
+321 ,       Ron Squire ,       Christine Herbert ,       2662.88
+322 ,       Nathan Summers ,       Christine Herbert ,       3240.18
+66 ,       Liam Knight ,       Deborah Nurton ,       3161.2
+67 ,       Ramon Ellison ,       Deborah Nurton ,       3675.35
+25 ,       Teagan Roberts ,       Boris Wallace ,       3786.57
+7 ,       Maria Alexander ,       Clarissa Parker ,       4185.38
+26 ,       Boris Spencer ,       Maria Alexander ,       3904.61
+68 ,       Alan Wilde ,       Boris Spencer ,       4027.23
+69 ,       Rosie Hunt ,       Boris Spencer ,       3068.17
+70 ,       Percy Sherwood ,       Boris Spencer ,       4132.39
+156 ,       Charlize Miller ,       Percy Sherwood ,       3029.75
+323 ,       Hank Ripley ,       Charlize Miller ,       4099.42
+324 ,       Quinn Price ,       Charlize Miller ,       4175.54
+325 ,       Melody Ventura ,       Charlize Miller ,       3814
+157 ,       Mike Barclay ,       Percy Sherwood ,       3301.6
+326 ,       Tom Drew ,       Mike Barclay ,       4098.38
+327 ,       Kaylee Stanley ,       Mike Barclay ,       3060.62
+328 ,       Bryon Williams ,       Mike Barclay ,       2758.56
+329 ,       Shay Hamilton ,       Mike Barclay ,       3965.04
+158 ,       Carl Hood ,       Percy Sherwood ,       3643.03
+330 ,       Miley Murray ,       Carl Hood ,       3895.59
+331 ,       Joseph Emmett ,       Carl Hood ,       3686.94
+332 ,       Alessia Groves ,       Carl Hood ,       4285.14
+71 ,       Jackeline Tobin ,       Boris Spencer ,       3739.09
+159 ,       Blake Noon ,       Jackeline Tobin ,       3907.5
+333 ,       Doug Stark ,       Blake Noon ,       3706.12
+334 ,       Bob Wilson ,       Blake Noon ,       3164.46
+335 ,       Matthew Robinson ,       Blake Noon ,       2531.83
+336 ,       Bart Pitt ,       Blake Noon ,       3544.63
+160 ,       Bryce Calderwood ,       Jackeline Tobin ,       2953.13
+337 ,       Logan Gibson ,       Bryce Calderwood ,       4327.73
+338 ,       Willow Giles ,       Bryce Calderwood ,       3453.81
+339 ,       Caitlyn Moss ,       Bryce Calderwood ,       4144.65
+340 ,       Blake Collins ,       Bryce Calderwood ,       4037.49
+161 ,       Beatrice Bradshaw ,       Jackeline Tobin ,       3350.09
+341 ,       Marvin Powell ,       Beatrice Bradshaw ,       2990.11
+342 ,       Hank Reading ,       Beatrice Bradshaw ,       3656.94
+27 ,       Sabrina Robinson ,       Maria Alexander ,       4069.47
+72 ,       Celina Campbell ,       Sabrina Robinson ,       4004.33
+162 ,       Adelaide Fenton ,       Celina Campbell ,       3539.56
+343 ,       Sebastian Collins ,       Adelaide Fenton ,       3877.02
+344 ,       Benny Emmott ,       Adelaide Fenton ,       4326.99
+345 ,       Bart Mcleod ,       Adelaide Fenton ,       3588.32
+163 ,       Havana Whitmore ,       Celina Campbell ,       2705.17
+346 ,       Bob Edley ,       Havana Whitmore ,       3184.66
+347 ,       Phoebe Haines ,       Havana Whitmore ,       4312.08
+348 ,       Harry Raven ,       Havana Whitmore ,       2814.19
+349 ,       Kendra Stuart ,       Havana Whitmore ,       4110.55
+164 ,       Jules Mitchell ,       Celina Campbell ,       3883.2
+350 ,       Mason Rixon ,       Jules Mitchell ,       2651.36
+351 ,       Johnny Clarke ,       Jules Mitchell ,       4128.47
+352 ,       Fred Burge ,       Jules Mitchell ,       4071.48
+353 ,       Maya Carter ,       Jules Mitchell ,       3291.96
+354 ,       Luna Oatway ,       Jules Mitchell ,       2580.92
+73 ,       Mason Quinn ,       Sabrina Robinson ,       3207.96
+74 ,       Danny Vallory ,       Sabrina Robinson ,       2897.6
+165 ,       Julia Olivier ,       Danny Vallory ,       3916.68
+355 ,       George Upton ,       Julia Olivier ,       4302.9
+166 ,       Emerald Ross ,       Danny Vallory ,       4248.38
+167 ,       Ciara Mcnally ,       Danny Vallory ,       4054.82
+28 ,       Jacob Driscoll ,       Maria Alexander ,       4442.16
+29 ,       Josh Downing ,       Maria Alexander ,       2923.54
+8 ,       Kurt Wright ,       Clarissa Parker ,       3559.44
+30 ,       Manuel Griffiths ,       Kurt Wright ,       3463.62
+75 ,       Lucas Skinner ,       Manuel Griffiths ,       4326.37
+76 ,       Tyler Rehman ,       Manuel Griffiths ,       4252.97
+168 ,       Bryon Leigh ,       Tyler Rehman ,       3351.62
+169 ,       Caleb Boden ,       Tyler Rehman ,       4133.84
+170 ,       Melanie Gray ,       Tyler Rehman ,       4149.96
+356 ,       Ryan Hunter ,       Melanie Gray ,       3641.77
+357 ,       Gil Cartwright ,       Melanie Gray ,       2885.86
+358 ,       Livia Hill ,       Melanie Gray ,       2667.85
+171 ,       Kurt Allington ,       Tyler Rehman ,       2810.53
+359 ,       Chad Miller ,       Kurt Allington ,       3027.48
+360 ,       Ronald Bristow ,       Kurt Allington ,       3574.68
+361 ,       Abdul Robinson ,       Kurt Allington ,       3897.1
+77 ,       Daphne Mullins ,       Manuel Griffiths ,       3753.27
+172 ,       Sage Forester ,       Daphne Mullins ,       3242.05
+362 ,       Mark Wellington ,       Sage Forester ,       3783.07
+363 ,       Ronald Wooldridge ,       Sage Forester ,       2980.45
+364 ,       Benjamin Thornton ,       Sage Forester ,       3484.99
+173 ,       Barney Nielson ,       Daphne Mullins ,       3756.57
+174 ,       Leroy Wild ,       Daphne Mullins ,       2712.26
+365 ,       Tony Trent ,       Leroy Wild ,       3039.7
+366 ,       Teagan Shaw ,       Leroy Wild ,       4238.95
+367 ,       Noah Fall ,       Leroy Wild ,       3092
+31 ,       Maddison Silva ,       Kurt Wright ,       3348.2
+78 ,       Selena Patel ,       Maddison Silva ,       3389.21
+79 ,       Charlize Whitmore ,       Maddison Silva ,       3195.81
+32 ,       Camellia Watson ,       Kurt Wright ,       3611.92
+3 ,       Harmony Rycroft ,       Denis Tyler ,       4265.37
+9 ,       Dani James ,       Harmony Rycroft ,       4534.5
+33 ,       Bob Booth ,       Dani James ,       4402.55
+34 ,       George Cassidy ,       Dani James ,       4016.19
+80 ,       Brad Nurton ,       George Cassidy ,       3993.97
+175 ,       Elijah Collis ,       Brad Nurton ,       3335.88
+176 ,       Remy Hancock ,       Brad Nurton ,       3665.41
+368 ,       Phillip Bailey ,       Remy Hancock ,       4039.79
+369 ,       Juliette Dickson ,       Remy Hancock ,       4063.6
+370 ,       Clint Briggs ,       Remy Hancock ,       3483.81
+371 ,       Owen Whinter ,       Remy Hancock ,       3027.73
+177 ,       Lara Simpson ,       Brad Nurton ,       3036.38
+372 ,       Dasha Reynolds ,       Lara Simpson ,       3058.3
+373 ,       Ruby Bradley ,       Lara Simpson ,       3935.78
+374 ,       Hayden Whatson ,       Lara Simpson ,       2797.39
+81 ,       Francesca Driscoll ,       George Cassidy ,       3926.75
+178 ,       Alan Kelly ,       Francesca Driscoll ,       3371.83
+179 ,       Benny Cattell ,       Francesca Driscoll ,       3910.05
+82 ,       Rick Roth ,       George Cassidy ,       4558.62
+83 ,       Luke Walker ,       George Cassidy ,       4459.28
+35 ,       Hayden Collins ,       Dani James ,       3325.95
+84 ,       Russel Middleton ,       Hayden Collins ,       3637.73
+180 ,       Jacqueline Davies ,       Russel Middleton ,       4398.27
+375 ,       Bart Marshall ,       Jacqueline Davies ,       2688.81
+376 ,       Davina Notman ,       Jacqueline Davies ,       3577.37
+377 ,       Allison Flett ,       Jacqueline Davies ,       3169.12
+181 ,       Ellen Gardner ,       Russel Middleton ,       3232.21
+378 ,       Percy Andrews ,       Ellen Gardner ,       2757.65
+379 ,       Rufus Scott ,       Ellen Gardner ,       3465
+182 ,       Michael Cameron ,       Russel Middleton ,       3824.29
+183 ,       Marjorie Hepburn ,       Russel Middleton ,       3884.9
+85 ,       Michelle Mcgee ,       Hayden Collins ,       3844.27
+184 ,       Percy Rixon ,       Michelle Mcgee ,       2959.89
+380 ,       Maria Gibson ,       Percy Rixon ,       3336.58
+381 ,       Julius Michael ,       Percy Rixon ,       2875.75
+382 ,       Paige Hamilton ,       Percy Rixon ,       4276.53
+383 ,       Eryn Poole ,       Percy Rixon ,       3943.07
+185 ,       Goldie Giles ,       Michelle Mcgee ,       3523.25
+384 ,       Javier Pierce ,       Goldie Giles ,       3726.92
+385 ,       Russel Connell ,       Goldie Giles ,       3784.11
+36 ,       Phillip Curtis ,       Dani James ,       3825.24
+86 ,       Margaret Hunter ,       Phillip Curtis ,       3272.51
+186 ,       Bethany Whinter ,       Margaret Hunter ,       3585.41
+386 ,       Tyson Ranks ,       Bethany Whinter ,       4156.1
+387 ,       Benny Woodley ,       Bethany Whinter ,       4286.36
+388 ,       Lucas Cobb ,       Bethany Whinter ,       3602.23
+389 ,       Ally Gordon ,       Bethany Whinter ,       3626.27
+187 ,       Estrella Wallace ,       Margaret Hunter ,       3301.33
+390 ,       Alba Grady ,       Estrella Wallace ,       4005.97
+391 ,       Drew Lewis ,       Estrella Wallace ,       2964.6
+188 ,       Shelby Tutton ,       Margaret Hunter ,       2820.66
+189 ,       Georgia Walsh ,       Margaret Hunter ,       3340.32
+392 ,       Bristol Morley ,       Georgia Walsh ,       2805.18
+393 ,       Thea Dyson ,       Georgia Walsh ,       2554.24
+87 ,       Matt Woods ,       Phillip Curtis ,       4473.1
+190 ,       Lillian Robertson ,       Matt Woods ,       3018.02
+394 ,       Grace Wild ,       Lillian Robertson ,       2947.91
+395 ,       Maxwell Hunter ,       Lillian Robertson ,       3709.36
+396 ,       Nancy Strong ,       Lillian Robertson ,       3752.83
+191 ,       Judith Anderson ,       Matt Woods ,       2876.69
+88 ,       Ellen Becker ,       Phillip Curtis ,       3216.18
+89 ,       Julius Robe ,       Phillip Curtis ,       4497.81
+192 ,       Chris Parker ,       Julius Robe ,       3823.32
+193 ,       Joseph Nelson ,       Julius Robe ,       3775.27
+10 ,       Caitlyn Allen ,       Harmony Rycroft ,       4421.13
+37 ,       Barney Preston ,       Caitlyn Allen ,       3290.38
+90 ,       Jazmin Porter ,       Barney Preston ,       3024.9
+194 ,       Remy Evans ,       Jazmin Porter ,       2874.43
+195 ,       Crystal Pierce ,       Jazmin Porter ,       2677.64
+397 ,       Ivette Alexander ,       Crystal Pierce ,       2544.56
+398 ,       Rosalyn Veale ,       Crystal Pierce ,       2710.89
+399 ,       Gil Hunt ,       Crystal Pierce ,       3553.67
+400 ,       Abdul Gibbons ,       Crystal Pierce ,       4166.31
+196 ,       Florence Jacobs ,       Jazmin Porter ,       2945.94
+91 ,       Eduardo Dwyer ,       Barney Preston ,       3827.15
+38 ,       Hayden Bishop ,       Caitlyn Allen ,       3381.75
+39 ,       Abbey Goodman ,       Caitlyn Allen ,       4269.51
+92 ,       Ivette Webster ,       Abbey Goodman ,       3495.52
+93 ,       Noah James ,       Abbey Goodman ,       2893.03
+40 ,       Caydence Mould ,       Caitlyn Allen ,       4556.99
+94 ,       Rosalee Cunningham ,       Caydence Mould ,       4173.53
+95 ,       Dasha Matthews ,       Caydence Mould ,       3917.94
+197 ,       Mike John ,       Dasha Matthews ,       3249.4
+198 ,       Greta Olson ,       Dasha Matthews ,       3265.79
+199 ,       Remy Bryson ,       Dasha Matthews ,       3675.23
+200 ,       Doris Mcnally ,       Dasha Matthews ,       3554.47
+401 ,       Bristol Giles ,       Doris Mcnally ,       3702.53
+96 ,       Michelle Asher ,       Caydence Mould ,       4235.39
+11 ,       Erick Uttley ,       Harmony Rycroft ,       3184.42
+41 ,       Josh Seymour ,       Erick Uttley ,       3520.8
+42 ,       Penelope York ,       Erick Uttley ,       2987.93
+12 ,       Carmen Zaoui ,       Harmony Rycroft ,       3540.75
+43 ,       Chester Carter ,       Carmen Zaoui ,       2927.97
+44 ,       Rose Abbey ,       Carmen Zaoui ,       3320.49
+45 ,       Andrea Harvey ,       Carmen Zaoui ,       3447.58
+97 ,       Jacob Gray ,       Andrea Harvey ,       2936.27
+98 ,       Cedrick Redden ,       Andrea Harvey ,       3290.01
+99 ,       Noah Thompson ,       Andrea Harvey ,       3615.04
+100 ,       Tony Dillon ,       Andrea Harvey ,       2725.9
+201 ,       Logan Edmonds ,       Tony Dillon ,       3442.93
+402 ,       Bernadette Morley ,       Logan Edmonds ,       2724.69
+403 ,       Alessandra Blackwall ,       Logan Edmonds ,       4178.05
+404 ,       Lexi Carson ,       Logan Edmonds ,       3346.85
+405 ,       Ethan Furnell ,       Logan Edmonds ,       3701.24
+4 ,       Alan Patel ,       Denis Tyler ,       4283.76
+13 ,       Bernadette Dickson ,       Alan Patel ,       3810.44
+46 ,       Alice Hastings ,       Bernadette Dickson ,       3831.75
+47 ,       Emerald Boyle ,       Bernadette Dickson ,       4019.96
+48 ,       Anthony Andersson ,       Bernadette Dickson ,       3723.12
+49 ,       Nick Lomax ,       Bernadette Dickson ,       4228.18
+14 ,       Clint Cork ,       Alan Patel ,       4343.74
+50 ,       Boris Doherty ,       Clint Cork ,       3251.91
+101 ,       Denny Dubois ,       Boris Doherty ,       3645.94
+202 ,       Emerald Lindsay ,       Denny Dubois ,       3627.12
+406 ,       Josh Hunter ,       Emerald Lindsay ,       2960.02
+407 ,       Charlotte Varndell ,       Emerald Lindsay ,       3634.43
+408 ,       Eduardo Gregory ,       Emerald Lindsay ,       3580.22
+203 ,       Peter Needham ,       Denny Dubois ,       3027.03
+409 ,       Carl Cann ,       Peter Needham ,       3856.47
+410 ,       Kaylee Reynolds ,       Peter Needham ,       4256.49
+411 ,       Noah Robertson ,       Peter Needham ,       3647.23
+412 ,       Sabrina Goodman ,       Peter Needham ,       2813.19
+204 ,       Jayden Gosling ,       Denny Dubois ,       3770.49
+413 ,       Audrey Neal ,       Jayden Gosling ,       2819.92
+414 ,       Margot Osman ,       Jayden Gosling ,       2745.61
+415 ,       Cara Richards ,       Jayden Gosling ,       3409.85
+416 ,       Cedrick Furnell ,       Jayden Gosling ,       3787.41
+205 ,       Maxwell Hill ,       Denny Dubois ,       3584.17
+417 ,       Martin Roth ,       Maxwell Hill ,       3293.5
+418 ,       Stella Dixon ,       Maxwell Hill ,       2847.85
+419 ,       Maya Yoman ,       Maxwell Hill ,       3080.21
+420 ,       Joy Morrow ,       Maxwell Hill ,       3958.85
+421 ,       Hayden Aldridge ,       Maxwell Hill ,       3422.34
+422 ,       Peter Rodwell ,       Maxwell Hill ,       4005.07
+51 ,       David Bowen ,       Clint Cork ,       4367.5
+102 ,       Stacy Cassidy ,       David Bowen ,       3114.6
+206 ,       Regina Coleman ,       Stacy Cassidy ,       2720.69
+423 ,       Manuel Bishop ,       Regina Coleman ,       3301.32
+424 ,       Clint Ring ,       Regina Coleman ,       3124.18
+425 ,       Shay James ,       Regina Coleman ,       3850.9
+207 ,       Celina Clarke ,       Stacy Cassidy ,       3091.15
+426 ,       Rocco Ellis ,       Celina Clarke ,       3742.8
+427 ,       Rick Overson ,       Celina Clarke ,       2715.58
+428 ,       Stella Lynch ,       Celina Clarke ,       2801.17
+429 ,       Denis Yarlett ,       Celina Clarke ,       3603.67
+208 ,       Nicholas Alldridge ,       Stacy Cassidy ,       4099.02
+430 ,       Destiny Notman ,       Nicholas Alldridge ,       2423.58
+431 ,       Kamila Andrews ,       Nicholas Alldridge ,       3511.48
+432 ,       Gwen Gosling ,       Nicholas Alldridge ,       4104.04
+103 ,       Julianna Warren ,       David Bowen ,       4254.2
+209 ,       Vicky Mullins ,       Julianna Warren ,       2882.77
+433 ,       Ron Amstead ,       Vicky Mullins ,       3779.33
+434 ,       Ivette Partridge ,       Vicky Mullins ,       4100.1
+435 ,       Denny Rowe ,       Vicky Mullins ,       2804.06
+436 ,       Elena Whatson ,       Vicky Mullins ,       3632.15
+210 ,       Cedrick Clark ,       Julianna Warren ,       3409.73
+437 ,       Aeris Brennan ,       Cedrick Clark ,       3801.75
+438 ,       Crystal Martin ,       Cedrick Clark ,       2927.14
+439 ,       Nate Scott ,       Cedrick Clark ,       3289.26
+440 ,       Mark Shaw ,       Cedrick Clark ,       3012.62
+211 ,       Scarlett Thompson ,       Julianna Warren ,       2962.49
+441 ,       David Freeburn ,       Scarlett Thompson ,       2414.1
+442 ,       Alexander Gaynor ,       Scarlett Thompson ,       2808
+212 ,       Chris Jarvis ,       Julianna Warren ,       4074.13
+443 ,       Jennifer Hewitt ,       Chris Jarvis ,       3331.59
+444 ,       Chelsea Thompson ,       Chris Jarvis ,       3720.33
+445 ,       Robyn Craig ,       Chris Jarvis ,       2632.8
+104 ,       Caleb Wild ,       David Bowen ,       3437.38
+213 ,       Ron Warner ,       Caleb Wild ,       3152.63
+446 ,       Sofia Bloom ,       Ron Warner ,       3146.21
+447 ,       Aisha Wellington ,       Ron Warner ,       3481.11
+448 ,       Willow Walker ,       Ron Warner ,       3557.09
+449 ,       Sofia Walsh ,       Ron Warner ,       2972.49
+214 ,       Shay Matthews ,       Caleb Wild ,       4017.37
+450 ,       Jayden Collins ,       Shay Matthews ,       3664.05
+451 ,       Ryan Webster ,       Shay Matthews ,       0
+452 ,       Emmanuelle Tennant ,       Shay Matthews ,       1498.12
+453 ,       Madison Niles ,       Shay Matthews ,       3174.05
+454 ,       Julius Abbey ,       Shay Matthews ,       2367.39
+215 ,       Daphne Clarke ,       Caleb Wild ,       2618.28
+455 ,       Chris Beal ,       Daphne Clarke ,       825.92
+216 ,       Priscilla Oldfield ,       Caleb Wild ,       3523.04
+105 ,       Rosie Bishop ,       David Bowen ,       3843.25
+217 ,       Alba Drake ,       Rosie Bishop ,       3379.17
+218 ,       Julian Milner ,       Rosie Bishop ,       3319.08
+219 ,       Nancy Quinnell ,       Rosie Bishop ,       3454.06
+220 ,       Aiden Griffiths ,       Rosie Bishop ,       3648.08
+456 ,       Bart Talbot ,       Aiden Griffiths ,       4033.32
+457 ,       Barney Patel ,       Aiden Griffiths ,       496.5
+458 ,       Leroy Grady ,       Aiden Griffiths ,       2564.5
+221 ,       Carl Dillon ,       Rosie Bishop ,       2884.31
+459 ,       Summer Forth ,       Carl Dillon ,       2262.92
+460 ,       Selena Eyres ,       Carl Dillon ,       2927.7
+461 ,       Sara Dallas ,       Carl Dillon ,       227.64
+222 ,       Jessica Blackwall ,       Rosie Bishop ,       3677.02
+462 ,       Cameron Chester ,       Jessica Blackwall ,       5251.95
+463 ,       Madelyn Woodcock ,       Jessica Blackwall ,       583.3
+464 ,       Harmony Roth ,       Jessica Blackwall ,       3213.27
+52 ,       Sabrina Morris ,       Clint Cork ,       4460.69
+106 ,       Benjamin Rosenbloom ,       Sabrina Morris ,       3539.59
+223 ,       Sonya Ventura ,       Benjamin Rosenbloom ,       3967.08
+224 ,       Rosie Hancock ,       Benjamin Rosenbloom ,       3055.02
+465 ,       Tess Needham ,       Rosie Hancock ,       642.77
+466 ,       Nathan Preston ,       Rosie Hancock ,       3614.52
+467 ,       Gwenyth Bullock ,       Rosie Hancock ,       3679.28
+225 ,       Percy Raven ,       Benjamin Rosenbloom ,       3368.71
+107 ,       Bart Butler ,       Sabrina Morris ,       3814.74
+226 ,       Sage Dixon ,       Bart Butler ,       3595.35
+468 ,       Ethan Huggins ,       Sage Dixon ,       5444.01
+469 ,       Daria James ,       Sage Dixon ,       3359.58
+470 ,       Bree Thornton ,       Sage Dixon ,       2856.06
+471 ,       Georgia Michael ,       Sage Dixon ,       4476
+227 ,       Michelle Zaoui ,       Bart Butler ,       4064.45
+472 ,       Melanie Bullock ,       Michelle Zaoui ,       1629.68
+473 ,       Georgia Giles ,       Michelle Zaoui ,       523.92
+474 ,       Denny Ventura ,       Michelle Zaoui ,       105.24
+228 ,       Rick Oldfield ,       Bart Butler ,       3466.34
+229 ,       Elijah Kidd ,       Bart Butler ,       3117.85
+108 ,       Harry Nurton ,       Sabrina Morris ,       2691.95
+230 ,       Boris Collins ,       Harry Nurton ,       3108.15
+475 ,       Marvin Richards ,       Boris Collins ,       582.3
+476 ,       Roger Williams ,       Boris Collins ,       1052.22
+477 ,       William Allen ,       Boris Collins ,       3393.16
+231 ,       Mabel Owen ,       Harry Nurton ,       3503.97
+478 ,       Charlotte Ward ,       Mabel Owen ,       3608.36
+479 ,       Anthony Brooks ,       Mabel Owen ,       4341.31
+232 ,       Carissa Lambert ,       Harry Nurton ,       3734.69
+53 ,       Rhea Dempsey ,       Clint Cork ,       2905.4
+109 ,       Lindsay Welsch ,       Rhea Dempsey ,       3724.98
+233 ,       Clint Matthews ,       Lindsay Welsch ,       3317.76
+234 ,       Amy Newman ,       Lindsay Welsch ,       3269.49
+480 ,       Cristal Murray ,       Amy Newman ,       3073.29
+481 ,       Phillip Shelton ,       Amy Newman ,       1285.35
+482 ,       Leroy Rivers ,       Amy Newman ,       2195.72
+483 ,       Daron Mcgregor ,       Amy Newman ,       245.8
+235 ,       Johnny Donnelly ,       Lindsay Welsch ,       3806.28
+484 ,       Gwen Radley ,       Johnny Donnelly ,       2123.6
+485 ,       Mona Atkinson ,       Johnny Donnelly ,       2918.5
+236 ,       Daron Waterson ,       Lindsay Welsch ,       2928.92
+486 ,       Alexa Ralph ,       Daron Waterson ,       222.18
+487 ,       Bart Noon ,       Daron Waterson ,       2754.6
+488 ,       Ronald Wilton ,       Daron Waterson ,       3352.58
+489 ,       Payton Baker ,       Daron Waterson ,       2476.6
+110 ,       Ronald Everett ,       Rhea Dempsey ,       3031.24
+237 ,       Tony Nicolas ,       Ronald Everett ,       3966.63
+490 ,       Logan Weasley ,       Tony Nicolas ,       2088
+491 ,       Maxwell Taylor ,       Tony Nicolas ,       2124.72
+238 ,       Ronald Bryant ,       Ronald Everett ,       4086.24
+239 ,       Mavis Rees ,       Ronald Everett ,       3893.4
+492 ,       Rosalee Gilmour ,       Mavis Rees ,       3466.52
+493 ,       Barney Gordon ,       Mavis Rees ,       2491.56
+240 ,       Lana Walter ,       Ronald Everett ,       4156.66
+494 ,       Ivy Talbot ,       Lana Walter ,       400.86
+495 ,       Stephanie Rycroft ,       Lana Walter ,       1332.36
+496 ,       Makena Crawley ,       Lana Walter ,       3451.16
+111 ,       Alessandra Scott ,       Rhea Dempsey ,       3998.64
+241 ,       Alba Strong ,       Alessandra Scott ,       3948.46
+242 ,       Mina Rosenbloom ,       Alessandra Scott ,       3606.22
+112 ,       Alma Griffiths ,       Rhea Dempsey ,       2871.78
+243 ,       Bristol Richards ,       Alma Griffiths ,       2957.52
+244 ,       Isabel Trent ,       Alma Griffiths ,       4170.07
+245 ,       Maxwell Dann ,       Alma Griffiths ,       4108.97
+497 ,       Boris Bailey ,       Maxwell Dann ,       892.35
+498 ,       William Pickard ,       Maxwell Dann ,       1425.04
+499 ,       Irene Michael ,       Maxwell Dann ,       2160.7
+500 ,       Maxwell Fowler ,       Maxwell Dann ,       212
+54 ,       Katelyn White ,       Clint Cork ,       2881.15
+113 ,       Jenna Powell ,       Katelyn White ,       4507.57
+246 ,       Aurelia Uddin ,       Jenna Powell ,       3070.18
+247 ,       Rick Nayler ,       Jenna Powell ,       3335.21
+248 ,       Maxwell King ,       Jenna Powell ,       4025.3
+249 ,       Chad Knight ,       Jenna Powell ,       3891.44
+114 ,       John Furnell ,       Katelyn White ,       3112.49
+250 ,       Nathan Morgan ,       John Furnell ,       3540.99
+501 ,       Brad Paterson ,       Nathan Morgan ,       1811.52
+251 ,       Abdul Weatcroft ,       John Furnell ,       4370.87
+502 ,       Alexander Osmond ,       Abdul Weatcroft ,       154.72
+503 ,       Sydney Phillips ,       Abdul Weatcroft ,       819.14
+504 ,       Jacob Parr ,       Abdul Weatcroft ,       171
+505 ,       Owen Burge ,       Abdul Weatcroft ,       1970.5
+252 ,       Valentina Walker ,       John Furnell ,       3758.34
+506 ,       Hanna Verdon ,       Valentina Walker ,       2205.64
+507 ,       Martin Logan ,       Valentina Walker ,       3517.26
+508 ,       Henry Holt ,       Valentina Walker ,       4449.8
+253 ,       Victoria Flack ,       John Furnell ,       2691.19
+509 ,       Jazmin Kidd ,       Victoria Flack ,       1859
+510 ,       Barry Phillips ,       Victoria Flack ,       3332.68
+511 ,       Adalie Stewart ,       Victoria Flack ,       4134.24
+512 ,       Percy Clarke ,       Victoria Flack ,       3009
+254 ,       Doug Tyler ,       John Furnell ,       4111.46
+513 ,       Courtney James ,       Doug Tyler ,       3524.64
+514 ,       Benny Tyrrell ,       Doug Tyler ,       2029.04
+515 ,       Ally Stevenson ,       Doug Tyler ,       3278.4
+516 ,       Rosa Tait ,       Doug Tyler ,       944
+115 ,       Jamie Parker ,       Katelyn White ,       2888.21
+255 ,       Helen Vince ,       Jamie Parker ,       3666.47
+517 ,       Tania Hamilton ,       Helen Vince ,       3505.89
+518 ,       Louise Oatway ,       Helen Vince ,       1779.84
+519 ,       Sasha Allen ,       Helen Vince ,       3590.64
+520 ,       Angela Briggs ,       Helen Vince ,       409.36
+521 ,       Emery Townend ,       Helen Vince ,       747.46
+522 ,       Phillip Wilkinson ,       Helen Vince ,       2958.69
+116 ,       Anthony Scott ,       Katelyn White ,       3511.14
+15 ,       Stella Rossi ,       Alan Patel ,       4206.84
+55 ,       Leilani Reese ,       Stella Rossi ,       4210.57
+117 ,       Lucas Wilkinson ,       Leilani Reese ,       2924.81
+118 ,       Havana Watson ,       Leilani Reese ,       4468.36
+119 ,       Percy Hilton ,       Leilani Reese ,       3196.49
+120 ,       Wade Booth ,       Leilani Reese ,       2994.24
+256 ,       Danny Neville ,       Wade Booth ,       3831.69
+523 ,       Abbey Stanley ,       Danny Neville ,       3753.64
+524 ,       Russel Blythe ,       Danny Neville ,       1167.75
+525 ,       Caydence Shea ,       Danny Neville ,       914.24
+257 ,       Tony Vince ,       Wade Booth ,       4043.5
+526 ,       Eduardo Rigg ,       Tony Vince ,       2060.45
+527 ,       Johnathan Mcgee ,       Tony Vince ,       3102.94
+528 ,       Beatrice Saunders ,       Tony Vince ,       411.52
+529 ,       Rosalee Kelly ,       Tony Vince ,       973.94
+258 ,       Gwenyth Groves ,       Wade Booth ,       3728.12
+530 ,       Rick Lynch ,       Gwenyth Groves ,       4293.52
+531 ,       Josh Bryant ,       Gwenyth Groves ,       3145.71
+532 ,       Denny Corbett ,       Gwenyth Groves ,       2520.18
+121 ,       Clarissa Gray ,       Leilani Reese ,       3510.32
+259 ,       Brad Antcliff ,       Clarissa Gray ,       3961.28
+533 ,       Jane Marshall ,       Brad Antcliff ,       3488.12
+534 ,       Hank Pearson ,       Brad Antcliff ,       3778.6
+535 ,       Mark Terry ,       Brad Antcliff ,       3461.04
+536 ,       Angelique Williams ,       Brad Antcliff ,       1775.4
+260 ,       Sarah Fleming ,       Clarissa Gray ,       3771.93
+537 ,       Amy Booth ,       Sarah Fleming ,       2818.48
+538 ,       Carissa Woodcock ,       Sarah Fleming ,       3846.06
+539 ,       Esmeralda Olivier ,       Sarah Fleming ,       2571.48
+540 ,       Russel Chappell ,       Sarah Fleming ,       446.29
+261 ,       Ruth Yarlett ,       Clarissa Gray ,       2608.73
+541 ,       Moira Mann ,       Ruth Yarlett ,       1402.8
+542 ,       Enoch Eddison ,       Ruth Yarlett ,       1044.16
+122 ,       Catherine Collins ,       Leilani Reese ,       3345.25
+262 ,       Havana Rainford ,       Catherine Collins ,       4165.68
+543 ,       Belinda Cork ,       Havana Rainford ,       449.76
+544 ,       Gabriel Forester ,       Havana Rainford ,       3907.2
+545 ,       Danny Jones ,       Havana Rainford ,       3204.32
+263 ,       John Stewart ,       Catherine Collins ,       2990.41
+546 ,       Carmella Osman ,       John Stewart ,       2934.85
+547 ,       Phillip Jones ,       John Stewart ,       475.16
+548 ,       Violet Stone ,       John Stewart ,       3015.36
+549 ,       Molly Russel ,       John Stewart ,       2681.27
+264 ,       Rita Chapman ,       Catherine Collins ,       3389.25
+550 ,       Eileen Cooper ,       Rita Chapman ,       5621.15
+551 ,       Isla Paterson ,       Rita Chapman ,       2831.5
+552 ,       Laila Price ,       Rita Chapman ,       5173.01
+553 ,       Lynn Briggs ,       Rita Chapman ,       72.22
+554 ,       Nick Baker ,       Rita Chapman ,       2217.6
+16 ,       Angela Thornton ,       Alan Patel ,       3459.79
+5 ,       Domenic Eaton ,       Denis Tyler ,       4529.1
+17 ,       Cameron Pickard ,       Domenic Eaton ,       3834.9
+18 ,       Enoch Umney ,       Domenic Eaton ,       4161.73
+19 ,       Bryon Plant ,       Domenic Eaton ,       3843.75
+20 ,       Charlize Horton ,       Domenic Eaton ,       3450.39
+56 ,       Roger Wild ,       Charlize Horton ,       3135.61
+123 ,       Enoch Mitchell ,       Roger Wild ,       2988.69
+124 ,       Abdul Heaton ,       Roger Wild ,       3005.08
+265 ,       Adela Mould ,       Abdul Heaton ,       2718.85
+555 ,       Mackenzie Parker ,       Adela Mould ,       3478.88
+266 ,       Meredith Wright ,       Abdul Heaton ,       4261.38
+267 ,       Aurelia Roberts ,       Abdul Heaton ,       3583.84
+125 ,       Peyton Russel ,       Roger Wild ,       3998
+57 ,       Ryan Grant ,       Charlize Horton ,       3397.89
+126 ,       Andrea Ellison ,       Ryan Grant ,       4236.54
+268 ,       David Jarvis ,       Andrea Ellison ,       2693.07
+269 ,       Agnes Emmott ,       Andrea Ellison ,       3651.06
+270 ,       Noah Wigley ,       Andrea Ellison ,       3488.82
+556 ,       Melody Mann ,       Noah Wigley ,       828.66
+557 ,       Phillip Kerr ,       Noah Wigley ,       535.92
+558 ,       Thea Cox ,       Noah Wigley ,       3066.66
+271 ,       Fred Savage ,       Andrea Ellison ,       3584.19
+559 ,       Jayden Henderson ,       Fred Savage ,       2865.17
+560 ,       Daria Adams ,       Fred Savage ,       1142.46
+561 ,       Anthony Maxwell ,       Fred Savage ,       2715.77
+127 ,       Carissa Quinnell ,       Ryan Grant ,       3787.31
+272 ,       Julius Rycroft ,       Carissa Quinnell ,       3977.99
+562 ,       Anthony Tennant ,       Julius Rycroft ,       4118.54
+563 ,       John Bright ,       Julius Rycroft ,       3138.12
+564 ,       Chester Tailor ,       Julius Rycroft ,       266.72
+273 ,       Courtney Morris ,       Carissa Quinnell ,       2673.56
+274 ,       Jayden Ralph ,       Carissa Quinnell ,       4194.02
+565 ,       Phoebe Wilcox ,       Jayden Ralph ,       2650.52
+566 ,       Celia Miller ,       Jayden Ralph ,       3113.22
+567 ,       Barney Weatcroft ,       Jayden Ralph ,       1341.72
+128 ,       Estrella Gates ,       Ryan Grant ,       3979.16
+129 ,       Mike Palmer ,       Ryan Grant ,       3624.95
+58 ,       Kate Waterson ,       Charlize Horton ,       4285.61
+130 ,       Carl Saunders ,       Kate Waterson ,       4082.67
+275 ,       Angelina Strong ,       Carl Saunders ,       3898.08
+276 ,       Liv Casey ,       Carl Saunders ,       2647.24
+568 ,       Eduardo Gilmore ,       Liv Casey ,       1545.48
+569 ,       Cristal Nielson ,       Liv Casey ,       1662.61
+570 ,       Manuel Wren ,       Liv Casey ,       1614.6
+571 ,       Percy Power ,       Liv Casey ,       2212.98
+277 ,       Alan Waterhouse ,       Carl Saunders ,       3690.22
+572 ,       Britney Dixon ,       Alan Waterhouse ,       5351.42
+573 ,       Samara Williams ,       Alan Waterhouse ,       4543.56
+574 ,       Rosa Russel ,       Alan Waterhouse ,       3711.2
+131 ,       Michelle Stone ,       Kate Waterson ,       3872.05
+278 ,       Leroy Jarvis ,       Michelle Stone ,       3781.79
+279 ,       Boris Lee ,       Michelle Stone ,       3189.8
+132 ,       Aiden Craig ,       Kate Waterson ,       3650.25
+21 ,       Doug Kelly ,       Domenic Eaton ,       2823.05
+59 ,       Lynn Martin ,       Doug Kelly ,       4445.44
+133 ,       Natalie Vinton ,       Lynn Martin ,       4117.7
+134 ,       Matthew Pickard ,       Lynn Martin ,       2679.18
+280 ,       Gloria Robinson ,       Matthew Pickard ,       3442.38
+575 ,       Erick Holmes ,       Gloria Robinson ,       314.58
+576 ,       Makena Cann ,       Gloria Robinson ,       1359.04
+577 ,       Jane Tindall ,       Gloria Robinson ,       4942.08
+281 ,       Matthew Thorne ,       Matthew Pickard ,       3299.39
+578 ,       William Jarrett ,       Matthew Thorne ,       919.68
+579 ,       Ronald Coates ,       Matthew Thorne ,       4437.84
+282 ,       Stephanie Thomas ,       Matthew Pickard ,       4208.4
+283 ,       Josh Addison ,       Matthew Pickard ,       3452.41
+135 ,       Sofia Steer ,       Lynn Martin ,       3703.6
+284 ,       Tom Lewis ,       Sofia Steer ,       3676.88
+580 ,       Peyton Robinson ,       Tom Lewis ,       4109.4
+581 ,       Marjorie Alcroft ,       Tom Lewis ,       2193.91
+582 ,       Bristol Knight ,       Tom Lewis ,       2829
+583 ,       Alexander King ,       Tom Lewis ,       675.72
+285 ,       Emma Rogers ,       Sofia Steer ,       4304.24
+584 ,       Maggie Funnell ,       Emma Rogers ,       4548.18
+585 ,       Kirsten Norman ,       Emma Rogers ,       3735.9
+136 ,       Tom Oliver ,       Lynn Martin ,       2722.33
+286 ,       Percy Grant ,       Tom Oliver ,       2622.4
+586 ,       Joy Jefferson ,       Percy Grant ,       176.12
+587 ,       Denis Larkin ,       Percy Grant ,       1397.52
+588 ,       Mabel Yoman ,       Percy Grant ,       681.48
+589 ,       Johnny Walton ,       Percy Grant ,       3708
+287 ,       Leanne Flack ,       Tom Oliver ,       4285.31
+590 ,       Josh Dann ,       Leanne Flack ,       1285.47
+591 ,       Ryan Becker ,       Leanne Flack ,       3233.28
+288 ,       Martha Alexander ,       Tom Oliver ,       4163.65
+289 ,       Mina Hamilton ,       Tom Oliver ,       4148.14
+592 ,       Anais Gaynor ,       Mina Hamilton ,       1361.84
+593 ,       Darlene Johnson ,       Mina Hamilton ,       2046.1
+60 ,       Benjamin Dowson ,       Doug Kelly ,       3037.22
+137 ,       Agnes Chadwick ,       Benjamin Dowson ,       3456.72
+290 ,       Barry Farrow ,       Agnes Chadwick ,       3823.42
+594 ,       Gil Wooldridge ,       Barry Farrow ,       2484.06
+595 ,       Adina Wright ,       Barry Farrow ,       3465.6
+596 ,       Bart Davies ,       Barry Farrow ,       1462.64
+291 ,       Kieth Carter ,       Agnes Chadwick ,       2766.79
+138 ,       Mavis Turner ,       Benjamin Dowson ,       2911.1
+139 ,       Rocco Shields ,       Benjamin Dowson ,       4359.03
+292 ,       Sonya Sinclair ,       Rocco Shields ,       3364.28
+293 ,       Abdul Barrett ,       Rocco Shields ,       3548.2
+140 ,       Caleb Jenkin ,       Benjamin Dowson ,       3303.46
+294 ,       Bryce Owens ,       Caleb Jenkin ,       3751.15
+295 ,       Elijah Stevens ,       Caleb Jenkin ,       3132.23
+597 ,       Cassidy Griffiths ,       Elijah Stevens ,       4293.6
+598 ,       Audrey Pond ,       Elijah Stevens ,       2095.2
+599 ,       Faith Leigh ,       Elijah Stevens ,       3105
+600 ,       Hank Jackson ,       Elijah Stevens ,       806.7
+296 ,       Maria Mcneill ,       Caleb Jenkin ,       3600.6
+61 ,       Domenic Yoman ,       Doug Kelly ,       4000.8
+141 ,       Roger Stevens ,       Domenic Yoman ,       3766.87
+142 ,       Lucas Shea ,       Domenic Yoman ,       3482.76
+22 ,       Elijah Eyres ,       Domenic Eaton ,       3825.84
+62 ,       Jacob Carter ,       Elijah Eyres ,       4564.04
+143 ,       Stephanie Parker ,       Jacob Carter ,       3605.26
+144 ,       Cara Bayliss ,       Jacob Carter ,       3808.62
+145 ,       Francesca Sherwood ,       Jacob Carter ,       4093.67
+297 ,       Kieth Riley ,       Francesca Sherwood ,       4370.64
+298 ,       Johnny Bennett ,       Francesca Sherwood ,       3478.41
+299 ,       Ramon Clayton ,       Francesca Sherwood ,       4339.85
+300 ,       John Leslie ,       Francesca Sherwood ,       3263.46
+63 ,       Javier Holmes ,       Elijah Eyres ,       4090.34
+146 ,       Daron Windsor ,       Javier Holmes ,       3099.5
+147 ,       Harry Chapman ,       Javier Holmes ,       3571.61
+148 ,       Rosalee Holmes ,       Javier Holmes ,       3166.57
+149 ,       Skylar Attwood ,       Javier Holmes ,       4191.85
+64 ,       Henry Roscoe ,       Elijah Eyres ,       3923.73
+150 ,       Alexander Sinclair ,       Henry Roscoe ,       4457.89
+301 ,       Aurelia Chester ,       Alexander Sinclair ,       3016.34
+151 ,       Alex Rixon ,       Henry Roscoe ,       3535.81
+302 ,       Doug Edwards ,       Alex Rixon ,       3377.71
+303 ,       Ron Edmonds ,       Alex Rixon ,       3369.49
+304 ,       Ronald Michael ,       Alex Rixon ,       3617.47
+305 ,       Amy King ,       Alex Rixon ,       3826.61
+152 ,       Paige Villiger ,       Henry Roscoe ,       3880.95
+306 ,       Emery Waterhouse ,       Paige Villiger ,       3971.04
+307 ,       Manuel Radley ,       Paige Villiger ,       4284.56
+308 ,       Kieth Wild ,       Paige Villiger ,       2670.82
+153 ,       Luke London ,       Henry Roscoe ,       4110.4
+309 ,       Angela Higgs ,       Luke London ,       4298.66
+310 ,       Cassidy Button ,       Luke London ,       4082.27
+311 ,       Rihanna Nobbs ,       Luke London ,       3257.51
+312 ,       Anthony Brown ,       Luke London ,       3207.99
+154 ,       Cedrick Price ,       Henry Roscoe ,       3855.37
+313 ,       Tony Greenwood ,       Cedrick Price ,       2991.33
+314 ,       Percy Walton ,       Cedrick Price ,       4169
+315 ,       Marvin Harper ,       Cedrick Price ,       4256.81
+316 ,       Shay Gonzales ,       Cedrick Price ,       4249.64
+
+Sueldo Bruto Total:        Sueldo Neto Total:         Total Impuestos: 
+2073627.990000             1953027.427400             120600.562600

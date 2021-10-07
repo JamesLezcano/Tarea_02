@@ -21,7 +21,8 @@ int main() {
 
 
     std::ofstream file("Planilla.csv", std::ofstream::out);
-    file<<"Supervisor, Id_Empleado, Nombre_Empleado, Sueldo_Neto   "<<std::endl<<"                     ";
+    file<<"   ID    ,  NOMBRE  ,                         ,   SUELDO   "<<std::endl;
+    file<<"EMPLEADO , EMPLEADO ,            SUPERVISOR   ,   NETO     "<<std::endl<<std::endl;
     file<<*arbol;
 
     file.close();
